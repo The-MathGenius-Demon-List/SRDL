@@ -1,0 +1,22 @@
+{
+    "id": 60978746,
+    "name": "The Golden",
+    "author": "BoBoBoBoBoBoBo",
+    "creators": [],
+    "verifier": "TheGoldenBo",
+    "verification": "https://www.twitch.tv/videos/2210222496",
+    "percentToQualify": "73",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hallow",
+            "link": "https://www.youtube.com/watch?v=Ra1HN3lCyQo",
+            "percent": 100
+        },
+        {
+            "user": "ProudGiraffe",
+            "link": "https://www.youtube.com/watch?v=JS1t-AywzY8",
+            "percent": 100
+        }
+    ]
+}
