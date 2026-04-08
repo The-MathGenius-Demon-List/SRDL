@@ -1,0 +1,32 @@
+{
+    "id": 2374518,
+    "name": "Red World",
+    "author": "saRy",
+    "creators": [],
+    "verifier": "Draconyx",
+    "verification": "https://youtu.be/kXOMuPsg6Bk?si=JyGXaAsyo54TOy2f",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Draconyx",
+            "link": "https://youtu.be/kXOMuPsg6Bk?si=JyGXaAsyo54TOy2f",
+            "percent": 100
+        },
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "https://www.youtube.com/watch?v=FYm3EWWCOd4",
+            "percent": 100
+        },
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
