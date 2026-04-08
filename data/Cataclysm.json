@@ -1,0 +1,82 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": [],
+    "verifier": "WhiteChocolate",
+    "verification": "https://www.youtube.com/watch?v=5UQgfvUopFk",
+    "percentToQualify": "100",
+    "password": "666777",
+    "records": [
+        {
+            "user": "Dreamlight",
+            "link": "https://www.youtube.com/watch?v=i2Q8f85YwWY",
+            "percent": 100
+        },
+        {
+            "user": "Rectic",
+            "link": "https://www.youtube.com/watch?v=xF0JyfTvSzA",
+            "percent": 100
+        },
+        {
+            "user": "ProudGiraffe",
+            "link": "https://www.youtube.com/watch?v=CmRtX4r3hd4",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "https://www.youtube.com/watch?v=27u7KJ3KUg4",
+            "percent": 100
+        },
+        {
+            "user": "Zyphyr",
+            "link": "https://www.youtube.com/watch?v=UgQB8XS3kCk",
+            "percent": 100
+        },
+        {
+            "user": "MathGenius",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "NotHunter",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Xeiro",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Ghastly",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Vertex",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Hydra",
+            "link": "https://www.youtube.com/watch?v=SQFnp9jJDMU",
+            "percent": 100
+        },
+        {
+            "user": "FireXY",
+            "link": "https://www.youtube.com/watch?v=w--10Z79MbQ",
+            "percent": 100
+        }
+    ]
+}
