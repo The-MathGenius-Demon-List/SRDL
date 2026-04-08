@@ -3,10 +3,15 @@
     "name": "KOCMOC",
     "author": "CherryTeam",
     "creators": [],
-    "verifier": "Proud",
-    "verification": "https://www.youtube.com/watch?v=tC7vAFXs3Vo",
+    "verifier": "TheGoldenBo",
+    "verification": "https://www.youtube.com/watch?v=typ3Q0WdoVc",
     "percentToQualify": "73",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ProudGiraffe",
+            "link": "https://www.youtube.com/watch?v=tC7vAFXs3Vo",
+            "percent": 100
+        }
     ]
 }
