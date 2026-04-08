@@ -1,0 +1,17 @@
+{
+    "id": 88203501,
+    "name": "UNKNOWN",
+    "author": "NineDice",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=33J7vwaGzH0",
+    "percentToQualify": "67",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheGoldenBo",
+            "link": "https://www.youtube.com/watch?v=UFXshvuXaq0",
+            "percent": 100
+        }
+    ]
+}
