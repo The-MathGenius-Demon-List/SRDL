@@ -1,0 +1,27 @@
+{
+    "id": 114933189,
+    "name": "Through the Decay",
+    "author": "spark",
+    "creators": [],
+    "verifier": "FireXY",
+    "verification": "https://youtu.be/bfb9wk0NlrU?si=AvLNcxHqksEQ68Ib",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "FireXY",
+            "link": "https://youtu.be/bfb9wk0NlrU?si=AvLNcxHqksEQ68Ib",
+            "percent": 100
+        },
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
