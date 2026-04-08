@@ -1,0 +1,17 @@
+{
+    "id": 113220284,
+    "name": "The Plunge",
+    "author": "DolaLXM",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=82urdnnjQ5o",
+    "percentToQualify": "67",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheGoldenBo",
+            "link": "https://www.youtube.com/watch?v=IAxA_blsrmE",
+            "percent": 100
+        }
+    ]
+}
