@@ -1,0 +1,27 @@
+{
+    "id": 27690100,
+    "name": "Slaughterhouse",
+    "author": "icedcave",
+    "creators": [],
+    "verifier": "WhiteChocolate",
+    "verification": "https://www.youtube.com/watch?v=LVyPeEJur9A",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ProudGiraffe",
+            "link": "https://www.youtube.com/watch?v=gxIxCMFXhE0",
+            "percent": 100
+        },
+        {
+            "user": "TheGoldenBo",
+            "link": "https://www.youtube.com/watch?v=2mzpt1jnqMQ",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "https://www.youtube.com/watch?v=cDWmZiou46A",
+            "percent": 100
+        }
+    ]
+}
