@@ -1,1 +1,87 @@
-
+{
+    "id": 59075347,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": [],
+    "verifier": "WhiteChocolate",
+    "verification": "https://www.youtube.com/watch?v=waKePLwthUU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Dreamlight",
+            "link": "https://www.youtube.com/watch?v=WCmqfTcGfvk",
+            "percent": 100
+        },
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "https://www.youtube.com/watch?v=FYm3EWWCOd4",
+            "percent": 100
+        },
+        {
+            "user": "MathGenius",
+            "link": "https://www.youtube.com/watch?v=75ib6xSVIlM",
+            "percent": 100
+        },
+        {
+            "user": "Blaze",
+            "link": "https://www.youtube.com/watch?v=jgJTk3y4qLI",
+            "percent": 100
+        },
+        {
+            "user": "Jamar",
+            "link": "https://www.youtube.com/watch?v=huXMsQsoVg0",
+            "percent": 100
+        },
+        {
+            "user": "NotHunter",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Xeiro",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Ghastly",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Matsuba",
+            "link": "https://www.youtube.com/watch?v=HQ3AlKRorQc",
+            "percent": 100
+        },
+        {
+            "user": "Vertex",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "FireXY",
+            "link": "https://www.youtube.com/watch?v=eUxoeeZOlh0",
+            "percent": 100
+        },
+        {
+            "user": "Jumanji",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
