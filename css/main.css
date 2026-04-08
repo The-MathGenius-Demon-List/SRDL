@@ -3,8 +3,8 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #0066ff;
-    --color-on-primary: white;
+    --color-primary: #f8e29b;
+    --color-on-primary: black;
     --color-error: #de0000;
     --color-on-error: white;
 }
@@ -14,11 +14,11 @@ header.dark {
     color-scheme: dark;
     --color-background: #1c1b1f;
     --color-on-background: white;
-    --color-background-hover: #27262c;
+    --color-background-hover: #262a2c;
     --color-on-background-hover: white;
-    --color-primary: #283593;
-    --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
+    --color-primary: #9ee4f6;
+    --color-primary-disabled: #1f333c;
+    --color-on-primary: black;
     --color-error: #de0000;
     --color-on-error: white;
 }
