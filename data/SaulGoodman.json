@@ -3,20 +3,10 @@
     "name": "Saul Goodman",
     "author": "Renn241",
     "creators": [],
-    "verifier": "Sharkified",
-    "verification": "https://www.youtube.com/watch?v=TOfLkLoXosk",
-    "percentToQualify": "100",
+    "verifier": "TheGoldenBo",
+    "verification": "https://www.youtube.com/watch?v=Pld4bArMS7k",
+    "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "TheGoldenBo",
-            "link": "https://www.youtube.com/watch?v=Pld4bArMS7k",
-            "percent": 100
-        },
-        {
-            "user": "MathGenius",
-            "link": "https://www.youtube.com/watch?v=Rfzce7rmC5Y",
-            "percent": 100
-        }
     ]
 }
