@@ -8,5 +8,10 @@
     "percentToQualify": "73",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "TheGoldenBo",
+            "link": "https://www.youtube.com/watch?v=jXrVJw7_MbA",
+            "percent": 87
+        }
     ]
 }
