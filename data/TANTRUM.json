@@ -1,0 +1,32 @@
+{
+    "id": 61910810,
+    "name": "TANTRUM",
+    "author": "DanZmeN",
+    "creators": [],
+    "verifier": "Xeiro",
+    "verification": "https://www.youtube.com/watch?v=EFUK2cw5u9M",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Xeiro",
+            "link": "https://www.youtube.com/watch?v=EFUK2cw5u9M",
+            "percent": 100
+        },
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
