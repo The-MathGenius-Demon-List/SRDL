@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "records": [
         {
+            "user": "Jamar",
+            "link": "",
+            "percent": 100
+        },
+        {
             "user": "Ghastly",
             "link": "",
             "percent": 100
