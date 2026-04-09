@@ -1,0 +1,26 @@
+{
+    "id": 63433024,
+    "name": "reverence",
+    "author": "Woom",
+    "creators": [],
+    "verifier": "Dreamlight",
+    "verification": "https://www.youtube.com/watch?v=Hyb6BfbkyM0",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Jamar",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Xeiro",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
