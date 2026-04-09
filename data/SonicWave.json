@@ -1,0 +1,41 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "lSunix",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=Eim61KIS8m4",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "WhiteChocolate",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Rectic",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Hydra",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
