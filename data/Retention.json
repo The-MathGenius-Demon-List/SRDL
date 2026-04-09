@@ -1,0 +1,31 @@
+{
+    "id": 18697406,
+    "name": "Retention",
+    "author": "WOOGI1411",
+    "creators": [],
+    "verifier": "Dreamlight",
+    "verification": "https://www.youtube.com/watch?v=y06CVxb_gZw",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Zyphyr",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
