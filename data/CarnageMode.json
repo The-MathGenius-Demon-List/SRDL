@@ -3,11 +3,16 @@
     "name": "Carnage Mode",
     "author": "Findexi",
     "creators": [],
-    "verifier": "Draconyx",
-    "verification": "https://www.youtube.com/watch?v=ThKytpWcZk4",
+    "verifier": "TheGoldenBo",
+    "verification": "https://www.youtube.com/watch?v=bXZboZzkaSk",
     "percentToQualify": "100",
     "password": "johncena",
     "records": [
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
         {
             "user": "Hydra",
             "link": "",
