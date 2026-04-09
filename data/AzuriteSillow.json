@@ -1,0 +1,32 @@
+{
+    "id": 62214792,
+    "name": "Azurite",
+    "author": "Sillow",
+    "creators": [],
+    "verifier": "Dreamlight",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "NotHunter",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Xeiro",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Ghastly",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
