@@ -1,0 +1,26 @@
+{
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": [],
+    "verifier": "Xeiro",
+    "verification": "https://www.youtube.com/watch?v=QBCLI544WCM",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Jamar",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
