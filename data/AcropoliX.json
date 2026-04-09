@@ -1,0 +1,32 @@
+{
+    "id": 19300593,
+    "name": "AcropoliX",
+    "author": "Souls TRK",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Ghastly",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Hydra",
+            "link": "",
+            "percent": -1
+        }
+    ]
+}
