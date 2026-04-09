@@ -1,0 +1,51 @@
+{
+    "id": 25610878,
+    "name": "aftermath",
+    "author": "Trollfacedash",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=VSIgZA40Nf4",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Rectic",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Zyphyr",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "NotHunter",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Vertex",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
