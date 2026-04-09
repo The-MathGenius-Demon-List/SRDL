@@ -1,0 +1,17 @@
+{
+    "id": 69333212,
+    "name": "Promethean",
+    "author": "Endlevel",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=Zm7T7EF7Mt8",
+    "percentToQualify": "66",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheGoldenBo",
+            "link": "https://www.youtube.com/watch?v=x7XSMLcP4Xs",
+            "percent": 100
+        }
+    ]
+}
