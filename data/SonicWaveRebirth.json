@@ -1,0 +1,22 @@
+{
+    "id": 68688849,
+    "name": "Sonic Wave Rebirth",
+    "author": "Serponge",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=Y0NJv62DBKI",
+    "percentToQualify": "64",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "WhiteChocolate",
+            "link": "https://www.youtube.com/watch?v=VxnI_PXSzZA",
+            "percent": 100
+        },
+        {
+            "user": "Rectic",
+            "link": "https://www.youtube.com/watch?v=clWCklAwR3k",
+            "percent": 100
+        }
+    ]
+}
