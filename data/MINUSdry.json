@@ -8,5 +8,10 @@
     "percentToQualify": "75",
     "password": "Free To Copy",
     "records": [
+          {
+            "user": "WhiteChocolate",
+            "link": "https://www.youtube.com/watch?v=HxrPkvc7o2o",
+            "percent": 80
+        }
     ]
 }
