@@ -1,0 +1,22 @@
+{
+    "id": 75455769,
+    "name": "DubKore X",
+    "author": "loogiah",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=GicNhM6RcJM",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
