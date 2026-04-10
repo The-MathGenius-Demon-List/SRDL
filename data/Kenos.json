@@ -1,0 +1,22 @@
+{
+    "id": 58673581,
+    "name": "Kenos",
+    "author": "npesta",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=oPMHSKPND-U",
+    "percentToQualify": "53",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Hallow",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
