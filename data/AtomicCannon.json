@@ -1,0 +1,22 @@
+{
+    "id": 77681476,
+    "name": "ATOMIC CANNON",
+    "author": "LIEB",
+    "creators": [],
+    "verifier": "TheGoldenBo",
+    "verification": "https://www.youtube.com/watch?v=pu38UblanAo",
+    "percentToQualify": "58",
+    "password": "hi iconic",
+    "records": [
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
