@@ -1,0 +1,22 @@
+{
+    "id": 77114615,
+    "name": "Disruption",
+    "author": "Ka1sa",
+    "creators": [],
+    "verifier": "Matsuba",
+    "verification": "https://www.youtube.com/watch?v=zOr1a28G87I",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
