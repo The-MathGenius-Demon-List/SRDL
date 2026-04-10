@@ -1,0 +1,22 @@
+{
+    "id": 65860142,
+    "name": "ErebuS",
+    "author": "Platnuu",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=04XB9p9Ql0w",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Dreamlight",
+            "link": "https://www.youtube.com/watch?v=GzxfM36h5jY",
+            "percent": 100
+        }
+    ]
+}
