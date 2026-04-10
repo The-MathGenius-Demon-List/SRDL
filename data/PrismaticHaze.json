@@ -1,0 +1,22 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Draconyx",
+            "link": "https://www.youtube.com/watch?v=RS5ZFcuaw3I",
+            "percent": 100
+        },
+        {
+            "user": "Xeiro",
+            "link": "https://www.youtube.com/watch?v=RS5ZFcuaw3I",
+            "percent": 100
+        }
+    ]
+}
