@@ -4,6 +4,8 @@ import { getThumbnailFromId, getYoutubeIdFromUrl, shuffle } from '../util.js';
 import Spinner from '../components/Spinner.js';
 import Btn from '../components/Btn.js';
 
+const N = totalLevels;
+
 export default {
     components: { Spinner, Btn },
     template: `
@@ -188,7 +190,7 @@ export default {
             const list = [];
             if (this.useMainList) list.push(...fullListMapped.slice(0, 150));
             if (this.useExtendedList) {
-                list.push(...fullListMapped.slice(151, totalLevels));
+                list.push(...fullListMapped.slice(151, N));
             }
 
             // random 100 levels
