@@ -1,0 +1,22 @@
+{
+    "id": 68600127,
+    "name": "Silent Club",
+    "author": "Play 1107696",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=1EWrmfA24LY",
+    "percentToQualify": "52",
+    "password": "can we please lower this",
+    "records": [
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
