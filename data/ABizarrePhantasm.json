@@ -1,0 +1,22 @@
+{
+    "id": 16023141,
+    "name": "A Bizarre Phantasm",
+    "author": "TeamN2",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=vfSTDVu0OWM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Zyphyr",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
