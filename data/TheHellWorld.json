@@ -1,0 +1,22 @@
+{
+    "id": 27904579,
+    "name": "The Hell World",
+    "author": "Stormfly",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=LigHGmSUQig",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
