@@ -1,0 +1,22 @@
+{
+    "id": 22434793,
+    "name": "Audio Extraction",
+    "author": "GoodSmile",
+    "creators": [],
+    "verifier": "Zyphyr",
+    "verification": "https://www.youtube.com/watch?v=LeSVqaVOTs8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
