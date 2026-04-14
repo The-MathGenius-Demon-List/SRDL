@@ -54,7 +54,9 @@ export default {
                                     <p>#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
+                                    <a class="type-label-lg" target="_blank" :href="score.link">
+                                        {{ entry.verified.includes(score) ? '★' : '' }}{{ score.level }}
+                                    </a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
