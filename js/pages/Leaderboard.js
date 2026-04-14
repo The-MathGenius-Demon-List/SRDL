@@ -55,7 +55,8 @@ export default {
                                 </td>
                                 <td class="level">
                                     <a class="type-label-lg" target="_blank" :href="score.link">
-                                        {{ entry.verified.includes(score) ? '★' : '' }}{{ score.level }}
+                                        <strong v-if="entry.verified.includes(score)">★ {{ score.level }}</strong>
+                                        <template v-else>{{ score.level }}</template>
                                     </a>
                                 </td>
                                 <td class="score">
