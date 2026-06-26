@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "Free",
     "records": [
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        }
     ]
 }
