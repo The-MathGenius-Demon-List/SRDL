@@ -1,0 +1,27 @@
+{
+    "id": 138356396,
+    "name": "BRUTAL",
+    "author": "Tshack",
+    "creators": [],
+    "verifier": "FireXY",
+    "verification": "https://youtu.be/i70_vz6BWEE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
