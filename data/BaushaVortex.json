@@ -1,0 +1,22 @@
+{
+    "id": 30380566,
+    "name": "Bausha Vortex",
+    "author": "Pennutoh",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=S8BCmLyzCVw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
