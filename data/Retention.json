@@ -14,7 +14,7 @@
         },
         {
             "user": "Iconic",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=SoQY0U5_hEM",
             "percent": 100
         },
         {
@@ -24,7 +24,12 @@
         },
         {
             "user": "Draconyx",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=oM16VBPOlzs",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=rV5CPG8DS2w",
             "percent": 100
         }
     ]
