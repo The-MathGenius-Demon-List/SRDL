@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=Y08V6SzGKDI",
+            "percent": 100
+        }
     ]
 }
