@@ -10,12 +10,17 @@
     "records": [
         {
             "user": "ProudGiraffe",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=8jmvkePR8PM",
             "percent": 100
         },
         {
             "user": "Dreamlight",
             "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=8WCxDRvZGkY",
             "percent": 100
         }
     ]
