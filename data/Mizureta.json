@@ -5,8 +5,13 @@
     "creators": [],
     "verifier": "Blaze",
     "verification": "",
-    "percentToQualify": "66",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=lBah1G1GccE",
+            "percent": 100
+        }
     ]
 }
