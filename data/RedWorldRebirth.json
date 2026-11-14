@@ -10,12 +10,17 @@
     "records": [
         {
             "user": "Draconyx",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=lwXuH2o3u6g",
             "percent": 100
         },
         {
             "user": "Dreamlight",
             "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=XT0n-ZusS60",
             "percent": 100
         }
     ]
