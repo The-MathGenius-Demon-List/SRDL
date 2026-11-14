@@ -14,7 +14,7 @@
         },
         {
             "user": "TheGoldenBo",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=d_f4s_SgKM0&t=80s",
             "percent": 100
         },
         {
@@ -24,7 +24,7 @@
         },
         {
             "user": "Draconyx",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=CL8cZGA4kg8",
             "percent": 100
         },
         {
@@ -35,6 +35,11 @@
         {
             "user": "Hydra",
             "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=kTWR9RTtcog",
             "percent": 100
         }
     ]
