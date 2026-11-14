@@ -9,12 +9,12 @@
     "records": [
         {
             "user": "Jamar",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=Q61wzHgTZzE",
             "percent": 100
         },
         {
             "user": "Ghastly",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=olVPXFKv5gg",
             "percent": 100
         },
         {
@@ -24,12 +24,12 @@
         },
         {
             "user": "MathGenius",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=hwyGk9tHDbY",
             "percent": 100
         },
         {
             "user": "Draconyx",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=jMCRlnBLNhQ",
             "percent": 100
         },
         {
@@ -40,6 +40,11 @@
         {
             "user": "Zyphyr",
             "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=iRbwlcZIm98",
             "percent": 100
         }
     ]
