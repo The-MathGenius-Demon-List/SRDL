@@ -8,5 +8,10 @@
     "percentToQualify": "98.6",
     "password": "abeka",
     "records": [
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=gyvHNDSpmTQ",
+            "percent": 100
+        }
     ]
 }
