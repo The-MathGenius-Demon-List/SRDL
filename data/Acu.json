@@ -15,7 +15,7 @@
         },
         {
             "user": "ProudGiraffe",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=IHNHMY-FBwo",
             "percent": 100
         },
         {
@@ -45,7 +45,7 @@
         },
         {
             "user": "Ghastly",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=pDdUNGawRbA",
             "percent": 100
         },
         {
@@ -81,6 +81,11 @@
         {
             "user": "Jumanji",
             "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=A8J_jjQiLsY",
             "percent": 100
         }
     ]
