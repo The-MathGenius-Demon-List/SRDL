@@ -9,12 +9,12 @@
     "records": [
         {
             "user": "ProudGiraffe",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=O6o-NcKn1z4",
             "percent": 100
         },
         {
             "user": "Jamar",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=D0VXDPdzBMw",
             "percent": 100
         },
         {
@@ -24,7 +24,7 @@
         },
         {
             "user": "Draconyx",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=yyoaeW8mhUE",
             "percent": 100
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "user": "Ghastly",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=OaGx1ZnBTV8",
             "percent": 100
         },
         {
@@ -54,7 +54,12 @@
         },
         {
             "user": "FireXY",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=TKc9k0gZifw",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=xgeUgfieD08",
             "percent": 100
         }
     ]
