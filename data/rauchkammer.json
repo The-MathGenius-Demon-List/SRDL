@@ -1,0 +1,32 @@
+{
+    "id": 146399247,
+    "name": "rauchkammer",
+    "author": "Devilmine",
+    "creators": [],
+    "verifier": "Draconyx",
+    "verification": "https://www.youtube.com/watch?v=UlP0-mEY0W4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ProudGiraffe",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "TheGoldenBo",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "FireXY",
+            "link": "https://www.youtube.com/watch?v=d3I2X3OxZKs",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=zGXtROiDHxg",
+            "percent": 100
+        }
+    ]
+}
