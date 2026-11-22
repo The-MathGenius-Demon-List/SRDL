@@ -1,0 +1,22 @@
+{
+    "id": 141662502,
+    "name": "Lone",
+    "author": "thazm",
+    "creators": [],
+    "verifier": "ProudGiraffe",
+    "verification": "https://www.youtube.com/watch?v=YQ5UDdsOxMk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "FireXY",
+            "link": "https://www.youtube.com/watch?v=wZLE9Wb4AxY",
+            "percent": 100
+        },
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=6T1h-JNI_ZQ",
+            "percent": 100
+        }
+    ]
+}
