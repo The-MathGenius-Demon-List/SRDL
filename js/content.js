@@ -60,11 +60,30 @@ export async function fetchList() {
         const hardestRank = Math.min(...ranks);
         const easiestRank = Math.max(...ranks);
 
-        // Attach the same rank range to each successfully loaded level.
-        return loadedLevels.map(([level, error]) => [
-            level ? { ...level, hardestRank, easiestRank } : null,
-            error,
-        ]);
+        // Calculate the existing AREDL-based point values for every loaded level.
+// Then assign those values from highest to lowest in SDL list order.
+const pointsBySdlPosition = loadedLevels
+    .filter(([level]) => level)
+    .map(([level]) =>
+        aredlCompletionPoints(
+            level.aredlRank,
+            hardestRank,
+            easiestRank,
+        ),
+    )
+    .sort((a, b) => b - a);
+
+let pointIndex = 0;
+
+return loadedLevels.map(([level, error]) => [
+    level
+        ? {
+              ...level,
+              basePoints: pointsBySdlPosition[pointIndex++],
+          }
+        : null,
+    error,
+]);
     } catch {
         console.error("Failed to load list or AREDL rank map.");
         return null;
@@ -111,9 +130,7 @@ export async function fetchLeaderboard() {
             rank: rank + 1,
             level: level.name,
             score: score(
-                level.aredlRank,
-                level.hardestRank,
-                level.easiestRank,
+                level.basePoints,
                 100,
                 level.percentToQualify,
             ),
@@ -140,9 +157,7 @@ export async function fetchLeaderboard() {
                     rank: rank + 1,
                     level: level.name,
                     score: score(
-                        level.aredlRank,
-                        level.hardestRank,
-                        level.easiestRank,
+                        level.basePoints,
                         100,
                         level.percentToQualify,
                     ),
@@ -156,9 +171,7 @@ export async function fetchLeaderboard() {
                 level: level.name,
                 percent: record.percent,
                 score: score(
-                    level.aredlRank,
-                    level.hardestRank,
-                    level.easiestRank,
+                    level.basePoints,
                     record.percent,
                     level.percentToQualify,
                 ),
