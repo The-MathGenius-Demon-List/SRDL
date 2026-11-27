@@ -180,12 +180,27 @@ export async function fetchLeaderboard() {
         });
     });
 
-    // Add each player's points together.
+    // Add each player's points together, applying the gradual achievement multiplier.
     const res = Object.entries(scoreMap).map(([user, scores]) => {
-        const { verified, completed, progressed } = scores;
-        const total = [verified, completed, progressed]
-            .flat()
-            .reduce((previous, current) => previous + current.score, 0);
+        const achievements = [
+            ...scores.verified,
+            ...scores.completed,
+            ...scores.progressed,
+        ].sort((a, b) => b.score - a.score);
+
+        achievements.forEach((achievement, index) => {
+            const position = index + 1;
+
+            if (position > 20) {
+                const multiplier = Math.pow(0.5, (position - 20) / 20);
+                achievement.score = round(achievement.score * multiplier);
+            }
+        });
+
+        const total = achievements.reduce(
+            (previous, achievement) => previous + achievement.score,
+            0,
+        );
 
         return {
             user,
