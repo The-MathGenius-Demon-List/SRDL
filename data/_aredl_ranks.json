@@ -1,23 +1,23 @@
 {
     "TidalWave": {
         "rank": 7,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AWT": {
         "rank": 16,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SilentClubstep": {
         "rank": 17,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DefeatedCircles": {
-        "rank": 24,
-        "method": "Exact title"
+        "rank": 43,
+        "method": "AREDL API: level ID"
     },
     "FORESTOFSPIKES": {
         "rank": 26,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Acheron": {
         "rank": 27,
@@ -25,103 +25,103 @@
     },
     "Kyouki": {
         "rank": 33,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Slaughterhouse": {
         "rank": 39,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "KOCMOC": {
         "rank": 41,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Deimos-ItsHybrid": {
         "rank": 43,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "CHIL": {
         "rank": 44,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SakupenCircles": {
         "rank": 47,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EyesInTheWater": {
         "rank": 51,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Firework": {
         "rank": 54,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "KOSETSU": {
         "rank": 58,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Poocubed": {
         "rank": 65,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MINUSdry": {
         "rank": 67,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHallucination": {
         "rank": 69,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SaulGoodman": {
         "rank": 71,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EdgeOfDestiny": {
         "rank": 76,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SevvendClubstep": {
         "rank": 75,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ThePlunge": {
         "rank": 79,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SolarFlare": {
         "rank": 80,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CHROMACAVE": {
         "rank": 87,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheYangire": {
         "rank": 96,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ORDINARY": {
         "rank": 98,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Arcturus": {
         "rank": 108,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SonicWaveInfinity": {
         "rank": 112,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Tartarus": {
         "rank": 113,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NaturalDisaster": {
         "rank": 119,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheGolden": {
         "rank": 123,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "THEROCKHOUSE": {
         "rank": 124,
@@ -129,15 +129,15 @@
     },
     "Oblivion": {
         "rank": 125,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ViprinUFO": {
         "rank": 126,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AtomicCannonMkIII": {
         "rank": 128,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheNautical": {
         "rank": 128.5,
@@ -145,67 +145,67 @@
     },
     "TerminalRampancy": {
         "rank": 129,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "VerdantLandscape": {
         "rank": 130,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "UNKNOWN": {
         "rank": 134,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Shukketsu": {
         "rank": 137,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CriticalHeat": {
         "rank": 140,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Graceful": {
         "rank": 144,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BloodEcho": {
         "rank": 148,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AerialGleam": {
         "rank": 149,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Trueffet": {
         "rank": 154,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Kenos": {
         "rank": 155,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Fragile": {
         "rank": 156,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "HardMachine": {
         "rank": 168,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CrackheadCircles": {
         "rank": 170,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Zodiac": {
         "rank": 172,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "JudgementKnights": {
         "rank": 178,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ColdSweat": {
         "rank": 189,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Enjoy": {
         "rank": 189.5,
@@ -213,7 +213,7 @@
     },
     "Promethean": {
         "rank": 190,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FACESHOPPING": {
         "rank": 190.5,
@@ -221,103 +221,103 @@
     },
     "Renevant": {
         "rank": 191,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ThinkingSpace": {
         "rank": 192,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "shimmeramp": {
         "rank": 198,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "CrimsonPlanet": {
         "rank": 201,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Cognition": {
         "rank": 209,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AtomicCannonMkII": {
         "rank": 212,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "qoUEO": {
         "rank": 213,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Ta1LSD0ll": {
         "rank": 218,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "RUST": {
         "rank": 219,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LucidNightmares": {
         "rank": 223,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Cobwebs": {
         "rank": 225,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "OmegaInterface": {
         "rank": 227,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LaunchpadLabyrinth": {
         "rank": 230,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SUPERHATEMEWORLD": {
         "rank": 234,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Ragnarok": {
         "rank": 240,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DescentIntoExile": {
         "rank": 245,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DeepBass": {
         "rank": 246,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Amalgam": {
         "rank": 247,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SilentClub": {
         "rank": 252,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LD50": {
         "rank": 257,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Bloodlust": {
         "rank": 264,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EscapeRoom": {
         "rank": 265,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Shardscapes": {
         "rank": 267,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Nhelv": {
         "rank": 276,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DeimosEndlevel": {
         "rank": 281,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "BloodyKnuckles": {
         "rank": 282,
@@ -325,67 +325,67 @@
     },
     "Congregation": {
         "rank": 283,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Sazerix": {
         "rank": 284,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Sigma": {
         "rank": 285,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AtomicCannon": {
         "rank": 293,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DustBowl": {
         "rank": 297,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Kowareta": {
         "rank": 304,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EndoftheUniverse": {
         "rank": 306,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Ouroboros": {
         "rank": 307,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CONNECT": {
         "rank": 308,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "thewiener": {
         "rank": 312,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Hardry": {
         "rank": 313,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FrozenCave": {
         "rank": 317,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ArcticLights": {
         "rank": 324,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Dedohexdragon": {
         "rank": 326,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ROCKYROAD": {
-        "rank": 308,
-        "method": "Exact title"
+        "rank": 327,
+        "method": "AREDL API: level ID"
     },
     "PlasmaPulseFinale": {
         "rank": 328,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SpectrumCyclone": {
         "rank": 330,
@@ -393,67 +393,67 @@
     },
     "AquaticAuroras": {
         "rank": 335,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FeverDream": {
         "rank": 339,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "Sparkling": {
         "rank": 351,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EternalMoment": {
         "rank": 357,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Gamma": {
         "rank": 366,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "GoldenClub": {
         "rank": 367,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "HyperParacosm": {
         "rank": 372,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Wasureta": {
         "rank": 375,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Ryft": {
         "rank": 376,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "reesespotentially": {
         "rank": 381,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Sewers": {
         "rank": 382,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SinkAwedsy": {
         "rank": 383,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "Necromancer": {
         "rank": 388,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CersiaDifficult": {
         "rank": 391,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "Rage": {
         "rank": 393,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ADOMANIA": {
         "rank": 394,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ywbc2P": {
         "rank": 395,
@@ -461,11 +461,11 @@
     },
     "SonicWaveRebirth": {
         "rank": 396,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SonicWave": {
         "rank": 397,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "StygianStorm": {
         "rank": 400.5,
@@ -473,7 +473,7 @@
     },
     "Yatagarasu": {
         "rank": 404,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MINDRUSHold": {
         "rank": 407,
@@ -481,39 +481,39 @@
     },
     "Kuzureta": {
         "rank": 410,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SunsetSandstorm": {
         "rank": 413,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SilentiumClavas": {
         "rank": 417,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "rosedynamix-OG": {
-        "rank": 418,
-        "method": "Neighbor estimate"
+        "rank": 608,
+        "method": "AREDL API: level ID"
     },
     "TheHellNutz": {
         "rank": 419,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "xo": {
         "rank": 420,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AlteredAscent": {
         "rank": 422,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "superprobablylevel": {
         "rank": 424,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MoltenCore": {
         "rank": 427,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CursedCorridor": {
         "rank": 427.5,
@@ -521,35 +521,35 @@
     },
     "FridayVortex": {
         "rank": 428,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Goner": {
         "rank": 429,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CelestialForce": {
         "rank": 430,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "GenericWave": {
         "rank": 433,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "QuantumTheory": {
         "rank": 440,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Erebus": {
         "rank": 444,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "DelebitOblivio": {
         "rank": 445,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DarkFlare": {
         "rank": 450,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellTrinity": {
         "rank": 451,
@@ -557,87 +557,87 @@
     },
     "TheHellTribute": {
         "rank": 452,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ChromaticHaze": {
         "rank": 453,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Timor": {
         "rank": 455,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Tapwreck": {
         "rank": 456,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "RELENTLESS": {
         "rank": 458,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "WOW": {
         "rank": 459,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LucidChaos": {
         "rank": 469,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DDiamond": {
         "rank": 470,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Catalyze": {
         "rank": 471,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DevilVortex": {
         "rank": 473,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Dreams": {
         "rank": 477,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FRX": {
         "rank": 478,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DubKoreX": {
         "rank": 479,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ConFusion": {
         "rank": 481,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Paroxysm": {
         "rank": 483,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "RetentionRush": {
         "rank": 486,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LateralMyst": {
         "rank": 489,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Pingas21": {
         "rank": 491,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Apollo11": {
         "rank": 506,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheCinnyBun": {
         "rank": 508,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "CadregaCity": {
         "rank": 509,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Charon": {
         "rank": 509.5,
@@ -645,43 +645,43 @@
     },
     "DigitalDescent": {
         "rank": 510,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "StalemateRedux": {
         "rank": 511,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ZAPHKIEL": {
         "rank": 513,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "RedBlueGreen": {
         "rank": 514,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Springtime": {
         "rank": 516,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AuroralDarkness": {
         "rank": 528,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Killbot": {
         "rank": 535,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Demonicat": {
         "rank": 536,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DeltaInterface": {
         "rank": 539,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SinisterIncision": {
         "rank": 540,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheMoonBelow": {
         "rank": 541,
@@ -689,15 +689,15 @@
     },
     "ArtificialAscent": {
         "rank": 544,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Fabrication": {
-        "rank": 546,
-        "method": "Exact title"
+        "rank": 1019,
+        "method": "AREDL API: level ID"
     },
     "FutureChaos": {
         "rank": 551,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Martin": {
         "rank": 551.5,
@@ -705,75 +705,75 @@
     },
     "LowDeath": {
         "rank": 552,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "OccultOutcry": {
         "rank": 555,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "StepToHell": {
         "rank": 556,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BeteNoire": {
         "rank": 558,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Crystal": {
         "rank": 560,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NightRider": {
         "rank": 564,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "PolygonalParadox": {
         "rank": 569,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MissingBenefits": {
         "rank": 574,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AuroralAscent": {
         "rank": 578,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "QuantumProcessing": {
-        "rank": 579,
-        "method": "Exact title"
+        "rank": 470,
+        "method": "AREDL API: level ID"
     },
     "BlackBlizzard": {
         "rank": 586,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "distraught": {
         "rank": 587,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EtherealArtifice": {
         "rank": 589,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "QuaoarFlosia": {
         "rank": 592,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "AstralDivinity": {
         "rank": 599,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Glowy": {
         "rank": 601,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "StaticIgnition": {
         "rank": 605,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DisasterDive": {
         "rank": 606,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Shiranai": {
         "rank": 606.5,
@@ -781,67 +781,67 @@
     },
     "MISFIRE": {
         "rank": 607,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "VoidWave": {
         "rank": 610,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NeverBeatIt": {
         "rank": 614,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BaushaVortex": {
         "rank": 615,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BalenguVortex": {
         "rank": 617,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BBBBBBBBBBBBBBBBBBBB": {
         "rank": 618,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellZone": {
         "rank": 629,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellField": {
         "rank": 633,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "eternalentropy": {
         "rank": 632,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Ziroikabi": {
         "rank": 636,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FuriousFlames": {
-        "rank": 638,
-        "method": "Exact title"
+        "rank": 652,
+        "method": "AREDL API: level ID"
     },
     "Hyperchaos": {
         "rank": 639,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheSulphurSea": {
         "rank": 641,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Hatred": {
         "rank": 643,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BreakoutRedux": {
         "rank": 644,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Berserk": {
         "rank": 652,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EndOfTheWorld": {
         "rank": 654.5,
@@ -849,159 +849,159 @@
     },
     "AuditoryBreaker": {
         "rank": 657,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "lodindafishwasher": {
-        "rank": 658,
-        "method": "Exact title"
+        "rank": 1397,
+        "method": "AREDL API: level ID"
     },
     "SurgeOfTheShield": {
         "rank": 663,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SpectrumSplit": {
         "rank": 665,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "HyperParadox": {
         "rank": 668,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CHROMAII": {
         "rank": 670,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellWorld": {
         "rank": 672,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SubSonic": {
         "rank": 673,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "UnfairEvening": {
         "rank": 678,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellInferno": {
         "rank": 683,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "KineticBypass": {
         "rank": 686,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Boogie": {
         "rank": 689,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ihateyou": {
         "rank": 693,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SPEEDRUN": {
         "rank": 703,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "RateDemon": {
         "rank": 704,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Dolos": {
         "rank": 706,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Ithacropolis": {
         "rank": 708,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "milo": {
         "rank": 710,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Erebussy": {
         "rank": 714,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "SUPERMAYOHATECLUB": {
         "rank": 718,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "kuiperbelt": {
         "rank": 719,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Athanatos": {
         "rank": 720,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CarnageMode": {
         "rank": 723,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NewRecord": {
         "rank": 727,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ResetYourMind": {
         "rank": 730,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CryothornHell": {
         "rank": 739,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Mystic": {
-        "rank": 740,
-        "method": "Exact title"
+        "rank": 739,
+        "method": "AREDL API: level ID"
     },
     "Phobos": {
         "rank": 744,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "WcropoliX": {
         "rank": 745,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TeaMZ": {
         "rank": 746,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "InfernalAbyss": {
         "rank": 749,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SapphireAngel": {
         "rank": 752,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "WOBBLINGMACHINE2P": {
         "rank": 754,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "hotrod": {
         "rank": 755,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BasedGangSolo": {
         "rank": 756,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MadMansion": {
         "rank": 757,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellOrigin": {
         "rank": 764,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MDT": {
         "rank": 768,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EnvY": {
         "rank": 762,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "trollleveltwo": {
         "rank": 768,
@@ -1009,127 +1009,127 @@
     },
     "Falcon16": {
         "rank": 774,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "VendetTa": {
         "rank": 775,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BladeOfJustice": {
         "rank": 776,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Masochism": {
         "rank": 783,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Asmodeus": {
         "rank": 787,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SilentiumGradas": {
         "rank": 790,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Shibui": {
         "rank": 793,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EXPLICIT": {
         "rank": 795,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SakupenHell": {
-        "rank": 798,
-        "method": "Exact title"
+        "rank": 744,
+        "method": "AREDL API: level ID"
     },
     "AlphaBaaX": {
         "rank": 805,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ACHROMATISM": {
         "rank": 806,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BetrayalOfFate": {
         "rank": 807,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "HatefulReflection": {
         "rank": 816,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TenthCircle": {
         "rank": 819,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Carcano": {
         "rank": 827,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Anahita": {
         "rank": 830,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellBird": {
         "rank": 831,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "OPSM1": {
         "rank": 836,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MoltenMercury": {
         "rank": 837,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BiohazardARtu": {
         "rank": 842,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "Astrophobia": {
         "rank": 844,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "GameOver": {
         "rank": 848,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "GlacialTorrent": {
         "rank": 855,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Untitled": {
         "rank": 861,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Moment": {
         "rank": 866,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Azuriteroyen": {
         "rank": 867,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "EcstasySleyGD": {
         "rank": 869,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "TempestTornado": {
         "rank": 871,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Gravity": {
         "rank": 872,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Bloodbath": {
-        "rank": 873,
-        "method": "Exact title"
+        "rank": 1537,
+        "method": "AREDL API: level ID"
     },
     "Eon": {
         "rank": 875,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CrimsonSlate": {
         "rank": 876.5,
@@ -1137,851 +1137,851 @@
     },
     "Idols": {
         "rank": 878,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AzureFiesta": {
         "rank": 881,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "QuaoarViPriN": {
         "rank": 883,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Doppler2P": {
         "rank": 885,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellFactory": {
         "rank": 887,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CrystalCrusher2P": {
         "rank": 891,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LeFishe": {
         "rank": 893,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DownBass": {
         "rank": 894,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "OUCH": {
         "rank": 901,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "angel": {
         "rank": 903,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BarbarosFinale": {
         "rank": 904,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Dyad": {
         "rank": 905,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "PrismaticHaze": {
         "rank": 907,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SakupenJoy": {
         "rank": 908,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ABizarrePhantasm": {
         "rank": 913,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NeRUaL": {
         "rank": 915,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ArtificialIdeology": {
         "rank": 917,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ConicalDepression": {
         "rank": 924,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Aurorathekris": {
         "rank": 930,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "EKO": {
         "rank": 932,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SL8O": {
         "rank": 940,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DreamCity": {
         "rank": 941,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "N0": {
         "rank": 953,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "shatteredlens": {
         "rank": 954,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "GObird": {
         "rank": 955,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ihaterenn": {
         "rank": 958,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ArcticArena": {
         "rank": 959,
-        "method": "Likely title variant: Arctic Arema / Arctic Arena"
+        "method": "AREDL API: level ID"
     },
     "QDYNAMIX": {
         "rank": 962,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Overtime": {
         "rank": 972,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Karma": {
         "rank": 973,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "INNARDS": {
         "rank": 977,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Antonymph": {
         "rank": 980,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "WaveBreaker": {
         "rank": 984,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ETERNAL": {
         "rank": 986,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ChillPuddy": {
         "rank": 991,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BEELINE2P": {
         "rank": 1001,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Tron": {
         "rank": 945,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DigitalDisarray": {
         "rank": 1019,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheHellDignity": {
         "rank": 1020,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Solstice": {
         "rank": 1022,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SigmaInterface": {
         "rank": 1033,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Aftermath": {
         "rank": 1034,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "WeAreNotTheSame2P": {
         "rank": 1036,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ShapeoftheSun": {
         "rank": 1045,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TwistedTranquility": {
         "rank": 1046,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CatPlanet": {
         "rank": 1047,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SHATTER": {
         "rank": 1048,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "PlasmaPulseIII": {
         "rank": 1051,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ConcavedMemories": {
         "rank": 1061,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Niflheim": {
         "rank": 1062,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "KINGSLAYER": {
         "rank": 1064,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MaybePossiblyThing": {
         "rank": 1065,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AnnihilationNation": {
         "rank": 1066,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Codependence2P": {
         "rank": 1072,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MomentaryAffection": {
         "rank": 1073,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Libertas": {
         "rank": 1079,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AudioExtraction": {
         "rank": 1081,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Betelgeuse": {
         "rank": 1083,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Caution": {
         "rank": 1101,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "YeeSangHaeYo": {
         "rank": 1103,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Glide": {
         "rank": 1108,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Aureole": {
         "rank": 1110,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Evangelion": {
         "rank": 1112,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "HeartbeatKrmaL": {
         "rank": 1115,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "DeathSentence": {
         "rank": 1120,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "mewhenmachinegang2P": {
         "rank": 1124,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Warning": {
         "rank": 1128,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Daydream": {
         "rank": 1129,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SidesOfMyMind2P": {
         "rank": 1134,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "UnderLavaland": {
         "rank": 1139,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Reflective": {
         "rank": 1141,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Vexatious": {
         "rank": 1147,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "WMWFv2": {
         "rank": 1148,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Specthys2P": {
         "rank": 1150,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Impasse": {
         "rank": 1157,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EX": {
         "rank": 1158,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Dualist2P": {
         "rank": 1162,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Tenkai2P": {
         "rank": 1165,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "1330x": {
         "rank": 1168,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "PumpedUpKicks": {
         "rank": 1180,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Cupid": {
         "rank": 1184,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ThoughtlessSpace": {
         "rank": 1187,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LonelyLights": {
         "rank": 1191,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FrightfulMelody": {
         "rank": 1192,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "4Elements": {
         "rank": 1169,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AnotherPhase": {
         "rank": 1197,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "GrillKill": {
         "rank": 1198,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "sarthix": {
         "rank": 1203,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Armageddon": {
         "rank": 1217,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "IH8": {
         "rank": 1225,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "INEVERDREAM": {
         "rank": 1228,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NecropoliX": {
         "rank": 1229,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ArtificialDream": {
         "rank": 1230,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Hurricane": {
         "rank": 1242,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FallingUp": {
         "rank": 1244,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FairMorning": {
         "rank": 1245,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Retention": {
         "rank": 1246,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Fexty": {
         "rank": 1247,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SUBVERSIVE": {
         "rank": 1248,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "GentlemensClique2P": {
         "rank": 1251,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SteelTerrors": {
         "rank": 1254,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "QuadraticFunction": {
         "rank": 1255,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TMWNE": {
         "rank": 1256,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MANIX": {
         "rank": 1270,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Gaming35": {
         "rank": 1273,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "headlock": {
         "rank": 1279,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheUltimatePhase": {
         "rank": 1280,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Aksion": {
         "rank": 1281,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BYE": {
         "rank": 1285,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BrokenSignal": {
         "rank": 1289,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "INFLAMMABLEINFUSION": {
         "rank": 1290,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Volume": {
         "rank": 1291,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AuraDuque01": {
         "rank": 1293,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "Reverence": {
         "rank": 1295,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "On1yCub3": {
         "rank": 1298,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Napalm": {
         "rank": 1300,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TechManifestation": {
         "rank": 1303,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ElectroLux": {
         "rank": 1305,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BoredWalk": {
         "rank": 1310,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Vacant": {
         "rank": 1320,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FirePowerMrLorenzo": {
         "rank": 1323,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "SHURIMA": {
         "rank": 1326,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ILOVECYAN": {
         "rank": 1328,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "RedWorldRebirth": {
         "rank": 1329,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ClownControl": {
         "rank": 1336,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Diligence": {
         "rank": 1342,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Breakout": {
         "rank": 1345,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "JRJRJR": {
         "rank": 1349,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Doradura": {
         "rank": 1355,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Projectalter": {
         "rank": 1356,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DeceptionDive": {
         "rank": 1359,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Reanimate": {
         "rank": 1360,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AwakeningHorus": {
         "rank": 1361,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CrowdControl": {
         "rank": 1362,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FULLPOWER": {
         "rank": 1364,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "aetherZeptoz": {
         "rank": 1367,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "AirTech": {
-        "rank": 1368,
-        "method": "Exact title"
+        "rank": 58,
+        "method": "AREDL API: level ID"
     },
     "EZR": {
         "rank": 1369,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CYCLONE": {
         "rank": 1370,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FanTasticLand": {
         "rank": 1373,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Faith": {
         "rank": 1375,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MalwareII": {
         "rank": 1377,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "PolishAlphabet": {
         "rank": 1379,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NightParty": {
         "rank": 1385,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FinKor": {
         "rank": 1386,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Voided": {
         "rank": 1389,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "UltraSans": {
         "rank": 1390,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Obscura": {
         "rank": 1392,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "UnknownCivilization": {
         "rank": 1393,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Vignette": {
         "rank": 1397,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ColorBeam": {
         "rank": 1401,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Explosion": {
         "rank": 1405,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Allegiance": {
         "rank": 1406,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TGII": {
         "rank": 1409,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Clocktower": {
         "rank": 1417,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Hypersonic": {
         "rank": 1418,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Falsch": {
         "rank": 1420,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "JustDANCE": {
         "rank": 1422,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BrunoMars": {
         "rank": 1425,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Expedition": {
         "rank": 1432,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MelonRiver": {
         "rank": 1433,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Hydratic": {
         "rank": 1441,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MtM": {
         "rank": 1443,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Doop": {
         "rank": 1445,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "VirtualCollapse": {
         "rank": 1447,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ThunderAlphabet": {
         "rank": 1448,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Redemption": {
         "rank": 1449,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheFlawless": {
         "rank": 1451,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Robi": {
         "rank": 1452,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "boson": {
         "rank": 1454,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Castling": {
         "rank": 1455,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BROOKLYNBLOODPOP": {
         "rank": 1456,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AcropoliX": {
         "rank": 1457,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Incipient": {
         "rank": 1461,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TUD": {
         "rank": 1462,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Overlord": {
         "rank": 1463,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MELTDOWN": {
         "rank": 1464,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Helios": {
         "rank": 1465,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "HiddenintheSand": {
         "rank": 1467,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "robotchiefexposal": {
         "rank": 1468,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Fishe": {
         "rank": 1469,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Niflhel": {
         "rank": 1471,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NEBULA": {
         "rank": 1472,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Uprise": {
         "rank": 1476,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "violetwall": {
         "rank": 1477,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Disruption": {
-        "rank": 1478,
-        "method": "Exact title"
+        "rank": 1355,
+        "method": "AREDL API: level ID"
     },
     "FFG": {
         "rank": 1459,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Clarity": {
         "rank": 1480,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TTS": {
         "rank": 1483,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DarkOdyssey": {
         "rank": 1484,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Cosmorush21": {
         "rank": 1485,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BrimtanicParadise": {
         "rank": 1487,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "StopBreathing": {
         "rank": 1490,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Plasmatic": {
         "rank": 1491,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LightsOut": {
         "rank": 1492,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Bangarang": {
         "rank": 1493,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "THISCITYLIT": {
         "rank": 1496,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Tesseract": {
         "rank": 1499,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Reverie": {
         "rank": 1501,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "EightoX": {
         "rank": 1503,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Ion": {
         "rank": 1504,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CLGB": {
         "rank": 1508,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FinalRound": {
         "rank": 1509,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Penombre": {
         "rank": 1510,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ForbiddenIsle": {
         "rank": 1514,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheLostExistence": {
         "rank": 1516,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Insaction": {
         "rank": 1517,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NoveCerchi": {
         "rank": 1519,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Snowdrift": {
         "rank": 1524,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Corrosion": {
         "rank": 1526,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DEADOFNIGHT": {
         "rank": 1527,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "verismilitude": {
         "rank": 1529,
-        "method": "Title/variant correction"
+        "method": "AREDL API: level ID"
     },
     "SpectralRender": {
         "rank": 1529.5,
@@ -1989,11 +1989,11 @@
     },
     "Malevolent": {
         "rank": 1530,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "phantasmagoria-whlt": {
         "rank": 1533,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "FdUnnerfed": {
         "rank": 1534,
@@ -2001,183 +2001,183 @@
     },
     "CONVOLVER": {
         "rank": 1535,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Cataclysm": {
         "rank": 1537,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "HeatSeeker": {
         "rank": 1538,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "LostLove": {
         "rank": 1540,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Voluto": {
         "rank": 1552,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "gooberland": {
         "rank": 1554,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "GLISTEN": {
         "rank": 1555,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Proteus": {
         "rank": 1563,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "eclipse": {
         "rank": 1564,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "9blue": {
         "rank": 1565,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "CognitiveCapacity": {
         "rank": 1567,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TwoZero": {
         "rank": 1570,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ShimmeringChamber": {
         "rank": 1571,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AzuriteSillow": {
         "rank": 1572,
-        "method": "AREDL variant/author match"
+        "method": "AREDL API: level ID"
     },
     "Paralysis": {
         "rank": 1573,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FlappyDynamixII": {
         "rank": 1574,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TDA": {
         "rank": 1577,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "bunniesiguess": {
         "rank": 1580,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NoSurvivors": {
         "rank": 1583,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ArtificialClimb": {
         "rank": 1584,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Decay": {
         "rank": 1585,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TANTRUM": {
         "rank": 1586,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "FunFriday": {
         "rank": 1588,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Wavetrip": {
         "rank": 1589,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Sephtis": {
         "rank": 1590,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MysticBounds": {
         "rank": 1592,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Mizureta": {
         "rank": 1593,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MistyMountains": {
         "rank": 1594,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "niwa": {
-        "rank": 1597,
-        "method": "Exact title"
+        "rank": 1628,
+        "method": "AREDL API: level ID"
     },
     "WithoutU": {
         "rank": 1598,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "JeonGi": {
         "rank": 1599,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Prismatic": {
         "rank": 1601,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DevilsDisco": {
         "rank": 1602,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "lezicuv": {
         "rank": 1607,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "MeLinA": {
         "rank": 1608,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "NostalgicOverdrive": {
         "rank": 1609,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "memoriesIII": {
         "rank": 1610,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Pentakill": {
         "rank": 1611,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BangGang2P": {
         "rank": 1612,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BasedGang2P": {
         "rank": 1613,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Raindance": {
         "rank": 1614,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BRUTAL": {
         "rank": 1615,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "thct": {
         "rank": 1616,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "BRAINWASH": {
         "rank": 1617,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TrollLevel": {
         "rank": 1618,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "WhiteAlbumUnnerfed": {
         "rank": 1618.5,
@@ -2185,70 +2185,70 @@
     },
     "ShineForMe": {
         "rank": 1619,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Lone": {
         "rank": 1621,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TheWingedSword": {
         "rank": 1622,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "PARADISEPOINT": {
         "rank": 1623,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "TranLaLuot": {
         "rank": 1624,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "JumpingDemons": {
         "rank": 1625,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Horros2P": {
         "rank": 1627,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "thesuperhotdog": {
         "rank": 1628,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "SweaterWeather": {
         "rank": 1630,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "squeak": {
         "rank": 1631,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Acu": {
-        "rank": 1632,
-        "method": "Exact title"
+        "rank": 113,
+        "method": "AREDL API: level ID"
     },
     "ThroughtheDecay": {
         "rank": 1634,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Precipitance": {
         "rank": 1635,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "RedWorld": {
         "rank": 1636,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "rauchkammer": {
         "rank": 1637,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "DOUBLEDYNAMO2P": {
         "rank": 1638,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Planemap2p": {
-        "rank": 1154,
-        "method": "Neighbor estimate"
+        "rank": 1153,
+        "method": "AREDL API: level ID"
     }
 }
