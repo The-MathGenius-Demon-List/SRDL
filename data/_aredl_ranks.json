@@ -21,7 +21,7 @@
     },
     "Acheron": {
         "rank": 27,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "Kyouki": {
         "rank": 33,
@@ -389,7 +389,7 @@
     },
     "SpectrumCyclone": {
         "rank": 330,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "AquaticAuroras": {
         "rank": 335,
@@ -685,7 +685,7 @@
     },
     "TheMoonBelow": {
         "rank": 541,
-        "method": "Exact title"
+        "method": "AREDL API: level ID"
     },
     "ArtificialAscent": {
         "rank": 544,
@@ -2224,7 +2224,7 @@
         "method": "AREDL API: level ID"
     },
     "Acu": {
-        "rank": 113,
+        "rank": 1632,
         "method": "AREDL API: level ID"
     },
     "ThroughtheDecay": {
