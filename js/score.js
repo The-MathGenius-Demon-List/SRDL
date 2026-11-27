@@ -4,16 +4,10 @@
 const scale = 3;
 
 /**
- * Calculate the score awarded when having a certain percentage on a list level
- * @param {Number} rank Position on the list (starting at 1)
- * @param {Number} totalLevels Total number of levels on the list (N)
- * @param {Number} percent Percentage of completion
- * @param {Number} minPercent Minimum percentage required
- * @returns {Number}
+ * Calculate a level's full-completion points from its AREDL rank.
+ * These scores will be sorted and assigned in SDL order.
  */
-export function score(aredlRank, hardestRank, easiestRank, percent, minPercent) {
-    if (percent < minPercent) return 0;
-
+export function aredlCompletionPoints(aredlRank, hardestRank, easiestRank) {
     if (![aredlRank, hardestRank, easiestRank].every(Number.isFinite)) {
         console.error("Missing or invalid AREDL rank.");
         return 0;
@@ -25,27 +19,43 @@ export function score(aredlRank, hardestRank, easiestRank, percent, minPercent) 
         Math.max(0, (easiestRank - aredlRank) / span),
     );
 
-    const baseScore = 1 + 999 * Math.pow(difficulty, 4);
+    return Math.max(round(1 + 999 * Math.pow(difficulty, 4)), 0);
+}
+
+/**
+ * Calculate points for a full completion or a progress record.
+ */
+export function score(basePoints, percent, minPercent) {
+    if (percent < minPercent) return 0;
+
+    if (!Number.isFinite(basePoints)) {
+        console.error("Missing or invalid base points.");
+        return 0;
+    }
 
     if (percent === 100) {
-        return Math.max(round(baseScore), 0);
+        return Math.max(round(basePoints), 0);
     }
 
     const progressRatio = (percent - minPercent) / (100 - minPercent);
     const pointsRatio = 0.10 + progressRatio * 0.40;
 
-    return Math.max(round(baseScore * pointsRatio), 0);
+    return Math.max(round(basePoints * pointsRatio), 0);
 }
 
 /**
- * Rounds a number to the defined scale
+ * Round a number to the defined scale.
  */
 export function round(num) {
-    if (!('' + num).includes('e')) {
-        return +(Math.round(num + 'e+' + scale) + 'e-' + scale);
+    if (!("" + num).includes("e")) {
+        return +(Math.round(num + "e+" + scale) + "e-" + scale);
     } else {
-        var arr = ('' + num).split('e');
-        var sig = +arr[1] + scale > 0 ? '+' : '';
-        return +(Math.round(+arr[0] + 'e' + sig + (+arr[1] + scale)) + 'e-' + scale);
+        const arr = ("" + num).split("e");
+        const sig = +arr[1] + scale > 0 ? "+" : "";
+        return +(
+            Math.round(+arr[0] + "e" + sig + (+arr[1] + scale)) +
+            "e-" +
+            scale
+        );
     }
 }
