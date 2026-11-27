@@ -11,11 +11,11 @@
     transition: border-color 100ms ease;
 }
 .nav .nav__tab.router-link-active {
-    padding-top: 10px;
+    padding-bottom: 10px;
     border-color: var(--color-on-primary);
 }
 .nav .nav__tab:hover {
-    padding-top: 10px;
+    padding-bottom: 10px;
     border-color: var(--color-on-primary);
 }
 .nav .nav__actions {
