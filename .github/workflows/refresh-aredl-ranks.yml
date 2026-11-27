@@ -1,0 +1,37 @@
+name: Refresh AREDL ranks
+
+on:
+  schedule:
+    - cron: "23 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-aredl-ranks
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Refresh mapped ranks from AREDL
+        run: python3 scripts/update_aredl_ranks.py
+
+      - name: Commit rank changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/_aredl_ranks.json
+          if git diff --cached --quiet; then
+            echo "No AREDL rank changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: refresh AREDL rank mapping"
+          git push origin main

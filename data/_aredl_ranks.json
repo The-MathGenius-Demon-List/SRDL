@@ -1,0 +1,2254 @@
+{
+    "TidalWave": {
+        "rank": 7,
+        "method": "Exact title"
+    },
+    "AWT": {
+        "rank": 16,
+        "method": "Exact title"
+    },
+    "SilentClubstep": {
+        "rank": 17,
+        "method": "Exact title"
+    },
+    "DefeatedCircles": {
+        "rank": 24,
+        "method": "Exact title"
+    },
+    "FORESTOFSPIKES": {
+        "rank": 26,
+        "method": "Exact title"
+    },
+    "Acheron": {
+        "rank": 27,
+        "method": "Exact title"
+    },
+    "Kyouki": {
+        "rank": 33,
+        "method": "Exact title"
+    },
+    "Slaughterhouse": {
+        "rank": 39,
+        "method": "Exact title"
+    },
+    "KOCMOC": {
+        "rank": 41,
+        "method": "Exact title"
+    },
+    "Deimos-ItsHybrid": {
+        "rank": 43,
+        "method": "AREDL variant/author match"
+    },
+    "CHIL": {
+        "rank": 44,
+        "method": "Exact title"
+    },
+    "SakupenCircles": {
+        "rank": 47,
+        "method": "Exact title"
+    },
+    "EyesInTheWater": {
+        "rank": 51,
+        "method": "Exact title"
+    },
+    "Firework": {
+        "rank": 54,
+        "method": "Exact title"
+    },
+    "KOSETSU": {
+        "rank": 58,
+        "method": "Exact title"
+    },
+    "Poocubed": {
+        "rank": 65,
+        "method": "Exact title"
+    },
+    "MINUSdry": {
+        "rank": 67,
+        "method": "Exact title"
+    },
+    "TheHallucination": {
+        "rank": 69,
+        "method": "Exact title"
+    },
+    "SaulGoodman": {
+        "rank": 71,
+        "method": "Exact title"
+    },
+    "EdgeOfDestiny": {
+        "rank": 76,
+        "method": "Exact title"
+    },
+    "SevvendClubstep": {
+        "rank": 75,
+        "method": "Exact title"
+    },
+    "ThePlunge": {
+        "rank": 79,
+        "method": "Exact title"
+    },
+    "SolarFlare": {
+        "rank": 80,
+        "method": "Exact title"
+    },
+    "CHROMACAVE": {
+        "rank": 87,
+        "method": "Exact title"
+    },
+    "TheYangire": {
+        "rank": 96,
+        "method": "Exact title"
+    },
+    "ORDINARY": {
+        "rank": 98,
+        "method": "Exact title"
+    },
+    "Arcturus": {
+        "rank": 108,
+        "method": "Exact title"
+    },
+    "SonicWaveInfinity": {
+        "rank": 112,
+        "method": "Exact title"
+    },
+    "Tartarus": {
+        "rank": 113,
+        "method": "Exact title"
+    },
+    "NaturalDisaster": {
+        "rank": 119,
+        "method": "Exact title"
+    },
+    "TheGolden": {
+        "rank": 123,
+        "method": "Exact title"
+    },
+    "THEROCKHOUSE": {
+        "rank": 124,
+        "method": "Neighbor estimate"
+    },
+    "Oblivion": {
+        "rank": 125,
+        "method": "Exact title"
+    },
+    "ViprinUFO": {
+        "rank": 126,
+        "method": "Exact title"
+    },
+    "AtomicCannonMkIII": {
+        "rank": 128,
+        "method": "Exact title"
+    },
+    "TheNautical": {
+        "rank": 128.5,
+        "method": "Neighbor estimate"
+    },
+    "TerminalRampancy": {
+        "rank": 129,
+        "method": "Exact title"
+    },
+    "VerdantLandscape": {
+        "rank": 130,
+        "method": "Exact title"
+    },
+    "UNKNOWN": {
+        "rank": 134,
+        "method": "Exact title"
+    },
+    "Shukketsu": {
+        "rank": 137,
+        "method": "Exact title"
+    },
+    "CriticalHeat": {
+        "rank": 140,
+        "method": "Exact title"
+    },
+    "Graceful": {
+        "rank": 144,
+        "method": "Exact title"
+    },
+    "BloodEcho": {
+        "rank": 148,
+        "method": "Exact title"
+    },
+    "AerialGleam": {
+        "rank": 149,
+        "method": "Exact title"
+    },
+    "Trueffet": {
+        "rank": 154,
+        "method": "Exact title"
+    },
+    "Kenos": {
+        "rank": 155,
+        "method": "Exact title"
+    },
+    "Fragile": {
+        "rank": 156,
+        "method": "Exact title"
+    },
+    "HardMachine": {
+        "rank": 168,
+        "method": "Exact title"
+    },
+    "CrackheadCircles": {
+        "rank": 170,
+        "method": "Exact title"
+    },
+    "Zodiac": {
+        "rank": 172,
+        "method": "Exact title"
+    },
+    "JudgementKnights": {
+        "rank": 178,
+        "method": "Exact title"
+    },
+    "ColdSweat": {
+        "rank": 189,
+        "method": "Exact title"
+    },
+    "Enjoy": {
+        "rank": 189.5,
+        "method": "Neighbor estimate"
+    },
+    "Promethean": {
+        "rank": 190,
+        "method": "Exact title"
+    },
+    "FACESHOPPING": {
+        "rank": 190.5,
+        "method": "Neighbor estimate"
+    },
+    "Renevant": {
+        "rank": 191,
+        "method": "Exact title"
+    },
+    "ThinkingSpace": {
+        "rank": 192,
+        "method": "Exact title"
+    },
+    "shimmeramp": {
+        "rank": 198,
+        "method": "AREDL variant/author match"
+    },
+    "CrimsonPlanet": {
+        "rank": 201,
+        "method": "Exact title"
+    },
+    "Cognition": {
+        "rank": 209,
+        "method": "Exact title"
+    },
+    "AtomicCannonMkII": {
+        "rank": 212,
+        "method": "Exact title"
+    },
+    "qoUEO": {
+        "rank": 213,
+        "method": "Exact title"
+    },
+    "Ta1LSD0ll": {
+        "rank": 218,
+        "method": "Exact title"
+    },
+    "RUST": {
+        "rank": 219,
+        "method": "Exact title"
+    },
+    "LucidNightmares": {
+        "rank": 223,
+        "method": "Exact title"
+    },
+    "Cobwebs": {
+        "rank": 225,
+        "method": "Exact title"
+    },
+    "OmegaInterface": {
+        "rank": 227,
+        "method": "Exact title"
+    },
+    "LaunchpadLabyrinth": {
+        "rank": 230,
+        "method": "Exact title"
+    },
+    "SUPERHATEMEWORLD": {
+        "rank": 234,
+        "method": "Exact title"
+    },
+    "Ragnarok": {
+        "rank": 240,
+        "method": "Exact title"
+    },
+    "DescentIntoExile": {
+        "rank": 245,
+        "method": "Exact title"
+    },
+    "DeepBass": {
+        "rank": 246,
+        "method": "Exact title"
+    },
+    "Amalgam": {
+        "rank": 247,
+        "method": "Exact title"
+    },
+    "SilentClub": {
+        "rank": 252,
+        "method": "Exact title"
+    },
+    "LD50": {
+        "rank": 257,
+        "method": "Exact title"
+    },
+    "Bloodlust": {
+        "rank": 264,
+        "method": "Exact title"
+    },
+    "EscapeRoom": {
+        "rank": 265,
+        "method": "Exact title"
+    },
+    "Shardscapes": {
+        "rank": 267,
+        "method": "Exact title"
+    },
+    "Nhelv": {
+        "rank": 276,
+        "method": "Exact title"
+    },
+    "DeimosEndlevel": {
+        "rank": 281,
+        "method": "AREDL variant/author match"
+    },
+    "BloodyKnuckles": {
+        "rank": 282,
+        "method": "Neighbor estimate"
+    },
+    "Congregation": {
+        "rank": 283,
+        "method": "Exact title"
+    },
+    "Sazerix": {
+        "rank": 284,
+        "method": "Exact title"
+    },
+    "Sigma": {
+        "rank": 285,
+        "method": "Exact title"
+    },
+    "AtomicCannon": {
+        "rank": 293,
+        "method": "Exact title"
+    },
+    "DustBowl": {
+        "rank": 297,
+        "method": "Exact title"
+    },
+    "Kowareta": {
+        "rank": 304,
+        "method": "Exact title"
+    },
+    "EndoftheUniverse": {
+        "rank": 306,
+        "method": "Exact title"
+    },
+    "Ouroboros": {
+        "rank": 307,
+        "method": "Exact title"
+    },
+    "CONNECT": {
+        "rank": 308,
+        "method": "Exact title"
+    },
+    "thewiener": {
+        "rank": 312,
+        "method": "Exact title"
+    },
+    "Hardry": {
+        "rank": 313,
+        "method": "Exact title"
+    },
+    "FrozenCave": {
+        "rank": 317,
+        "method": "Exact title"
+    },
+    "ArcticLights": {
+        "rank": 324,
+        "method": "Exact title"
+    },
+    "Dedohexdragon": {
+        "rank": 326,
+        "method": "Exact title"
+    },
+    "ROCKYROAD": {
+        "rank": 308,
+        "method": "Exact title"
+    },
+    "PlasmaPulseFinale": {
+        "rank": 328,
+        "method": "Exact title"
+    },
+    "SpectrumCyclone": {
+        "rank": 330,
+        "method": "Exact title"
+    },
+    "AquaticAuroras": {
+        "rank": 335,
+        "method": "Exact title"
+    },
+    "FeverDream": {
+        "rank": 339,
+        "method": "AREDL variant/author match"
+    },
+    "Sparkling": {
+        "rank": 351,
+        "method": "Exact title"
+    },
+    "EternalMoment": {
+        "rank": 357,
+        "method": "Exact title"
+    },
+    "Gamma": {
+        "rank": 366,
+        "method": "Exact title"
+    },
+    "GoldenClub": {
+        "rank": 367,
+        "method": "Exact title"
+    },
+    "HyperParacosm": {
+        "rank": 372,
+        "method": "Exact title"
+    },
+    "Wasureta": {
+        "rank": 375,
+        "method": "Exact title"
+    },
+    "Ryft": {
+        "rank": 376,
+        "method": "Exact title"
+    },
+    "reesespotentially": {
+        "rank": 381,
+        "method": "Exact title"
+    },
+    "Sewers": {
+        "rank": 382,
+        "method": "Exact title"
+    },
+    "SinkAwedsy": {
+        "rank": 383,
+        "method": "AREDL variant/author match"
+    },
+    "Necromancer": {
+        "rank": 388,
+        "method": "Exact title"
+    },
+    "CersiaDifficult": {
+        "rank": 391,
+        "method": "AREDL variant/author match"
+    },
+    "Rage": {
+        "rank": 393,
+        "method": "Exact title"
+    },
+    "ADOMANIA": {
+        "rank": 394,
+        "method": "Exact title"
+    },
+    "ywbc2P": {
+        "rank": 395,
+        "method": "Neighbor estimate"
+    },
+    "SonicWaveRebirth": {
+        "rank": 396,
+        "method": "Exact title"
+    },
+    "SonicWave": {
+        "rank": 397,
+        "method": "Exact title"
+    },
+    "StygianStorm": {
+        "rank": 400.5,
+        "method": "Neighbor estimate"
+    },
+    "Yatagarasu": {
+        "rank": 404,
+        "method": "Exact title"
+    },
+    "MINDRUSHold": {
+        "rank": 407,
+        "method": "Neighbor estimate"
+    },
+    "Kuzureta": {
+        "rank": 410,
+        "method": "Exact title"
+    },
+    "SunsetSandstorm": {
+        "rank": 413,
+        "method": "Exact title"
+    },
+    "SilentiumClavas": {
+        "rank": 417,
+        "method": "Exact title"
+    },
+    "rosedynamix-OG": {
+        "rank": 418,
+        "method": "Neighbor estimate"
+    },
+    "TheHellNutz": {
+        "rank": 419,
+        "method": "Exact title"
+    },
+    "xo": {
+        "rank": 420,
+        "method": "Exact title"
+    },
+    "AlteredAscent": {
+        "rank": 422,
+        "method": "Exact title"
+    },
+    "superprobablylevel": {
+        "rank": 424,
+        "method": "Exact title"
+    },
+    "MoltenCore": {
+        "rank": 427,
+        "method": "Exact title"
+    },
+    "CursedCorridor": {
+        "rank": 427.5,
+        "method": "Neighbor estimate"
+    },
+    "FridayVortex": {
+        "rank": 428,
+        "method": "Exact title"
+    },
+    "Goner": {
+        "rank": 429,
+        "method": "Exact title"
+    },
+    "CelestialForce": {
+        "rank": 430,
+        "method": "Exact title"
+    },
+    "GenericWave": {
+        "rank": 433,
+        "method": "Exact title"
+    },
+    "QuantumTheory": {
+        "rank": 440,
+        "method": "Exact title"
+    },
+    "Erebus": {
+        "rank": 444,
+        "method": "AREDL variant/author match"
+    },
+    "DelebitOblivio": {
+        "rank": 445,
+        "method": "Exact title"
+    },
+    "DarkFlare": {
+        "rank": 450,
+        "method": "Exact title"
+    },
+    "TheHellTrinity": {
+        "rank": 451,
+        "method": "Neighbor estimate"
+    },
+    "TheHellTribute": {
+        "rank": 452,
+        "method": "Exact title"
+    },
+    "ChromaticHaze": {
+        "rank": 453,
+        "method": "Exact title"
+    },
+    "Timor": {
+        "rank": 455,
+        "method": "Exact title"
+    },
+    "Tapwreck": {
+        "rank": 456,
+        "method": "Exact title"
+    },
+    "RELENTLESS": {
+        "rank": 458,
+        "method": "Exact title"
+    },
+    "WOW": {
+        "rank": 459,
+        "method": "Exact title"
+    },
+    "LucidChaos": {
+        "rank": 469,
+        "method": "Exact title"
+    },
+    "DDiamond": {
+        "rank": 470,
+        "method": "Exact title"
+    },
+    "Catalyze": {
+        "rank": 471,
+        "method": "Exact title"
+    },
+    "DevilVortex": {
+        "rank": 473,
+        "method": "Exact title"
+    },
+    "Dreams": {
+        "rank": 477,
+        "method": "Exact title"
+    },
+    "FRX": {
+        "rank": 478,
+        "method": "Exact title"
+    },
+    "DubKoreX": {
+        "rank": 479,
+        "method": "Exact title"
+    },
+    "ConFusion": {
+        "rank": 481,
+        "method": "Exact title"
+    },
+    "Paroxysm": {
+        "rank": 483,
+        "method": "Exact title"
+    },
+    "RetentionRush": {
+        "rank": 486,
+        "method": "Exact title"
+    },
+    "LateralMyst": {
+        "rank": 489,
+        "method": "Exact title"
+    },
+    "Pingas21": {
+        "rank": 491,
+        "method": "Exact title"
+    },
+    "Apollo11": {
+        "rank": 506,
+        "method": "Exact title"
+    },
+    "TheCinnyBun": {
+        "rank": 508,
+        "method": "AREDL variant/author match"
+    },
+    "CadregaCity": {
+        "rank": 509,
+        "method": "Exact title"
+    },
+    "Charon": {
+        "rank": 509.5,
+        "method": "Neighbor estimate"
+    },
+    "DigitalDescent": {
+        "rank": 510,
+        "method": "Exact title"
+    },
+    "StalemateRedux": {
+        "rank": 511,
+        "method": "Exact title"
+    },
+    "ZAPHKIEL": {
+        "rank": 513,
+        "method": "Exact title"
+    },
+    "RedBlueGreen": {
+        "rank": 514,
+        "method": "Exact title"
+    },
+    "Springtime": {
+        "rank": 516,
+        "method": "Exact title"
+    },
+    "AuroralDarkness": {
+        "rank": 528,
+        "method": "Exact title"
+    },
+    "Killbot": {
+        "rank": 535,
+        "method": "Exact title"
+    },
+    "Demonicat": {
+        "rank": 536,
+        "method": "Exact title"
+    },
+    "DeltaInterface": {
+        "rank": 539,
+        "method": "Exact title"
+    },
+    "SinisterIncision": {
+        "rank": 540,
+        "method": "Exact title"
+    },
+    "TheMoonBelow": {
+        "rank": 541,
+        "method": "Exact title"
+    },
+    "ArtificialAscent": {
+        "rank": 544,
+        "method": "Exact title"
+    },
+    "Fabrication": {
+        "rank": 546,
+        "method": "Exact title"
+    },
+    "FutureChaos": {
+        "rank": 551,
+        "method": "Exact title"
+    },
+    "Martin": {
+        "rank": 551.5,
+        "method": "Neighbor estimate"
+    },
+    "LowDeath": {
+        "rank": 552,
+        "method": "Exact title"
+    },
+    "OccultOutcry": {
+        "rank": 555,
+        "method": "Exact title"
+    },
+    "StepToHell": {
+        "rank": 556,
+        "method": "Exact title"
+    },
+    "BeteNoire": {
+        "rank": 558,
+        "method": "Exact title"
+    },
+    "Crystal": {
+        "rank": 560,
+        "method": "Exact title"
+    },
+    "NightRider": {
+        "rank": 564,
+        "method": "Exact title"
+    },
+    "PolygonalParadox": {
+        "rank": 569,
+        "method": "Exact title"
+    },
+    "MissingBenefits": {
+        "rank": 574,
+        "method": "Exact title"
+    },
+    "AuroralAscent": {
+        "rank": 578,
+        "method": "Exact title"
+    },
+    "QuantumProcessing": {
+        "rank": 579,
+        "method": "Exact title"
+    },
+    "BlackBlizzard": {
+        "rank": 586,
+        "method": "Exact title"
+    },
+    "distraught": {
+        "rank": 587,
+        "method": "Exact title"
+    },
+    "EtherealArtifice": {
+        "rank": 589,
+        "method": "Exact title"
+    },
+    "QuaoarFlosia": {
+        "rank": 592,
+        "method": "AREDL variant/author match"
+    },
+    "AstralDivinity": {
+        "rank": 599,
+        "method": "Exact title"
+    },
+    "Glowy": {
+        "rank": 601,
+        "method": "Exact title"
+    },
+    "StaticIgnition": {
+        "rank": 605,
+        "method": "Exact title"
+    },
+    "DisasterDive": {
+        "rank": 606,
+        "method": "Exact title"
+    },
+    "Shiranai": {
+        "rank": 606.5,
+        "method": "Neighbor estimate"
+    },
+    "MISFIRE": {
+        "rank": 607,
+        "method": "Exact title"
+    },
+    "VoidWave": {
+        "rank": 610,
+        "method": "Exact title"
+    },
+    "NeverBeatIt": {
+        "rank": 614,
+        "method": "Exact title"
+    },
+    "BaushaVortex": {
+        "rank": 615,
+        "method": "Exact title"
+    },
+    "BalenguVortex": {
+        "rank": 617,
+        "method": "Exact title"
+    },
+    "BBBBBBBBBBBBBBBBBBBB": {
+        "rank": 618,
+        "method": "Exact title"
+    },
+    "TheHellZone": {
+        "rank": 629,
+        "method": "Exact title"
+    },
+    "TheHellField": {
+        "rank": 633,
+        "method": "Exact title"
+    },
+    "eternalentropy": {
+        "rank": 632,
+        "method": "Exact title"
+    },
+    "Ziroikabi": {
+        "rank": 636,
+        "method": "Exact title"
+    },
+    "FuriousFlames": {
+        "rank": 638,
+        "method": "Exact title"
+    },
+    "Hyperchaos": {
+        "rank": 639,
+        "method": "Exact title"
+    },
+    "TheSulphurSea": {
+        "rank": 641,
+        "method": "Exact title"
+    },
+    "Hatred": {
+        "rank": 643,
+        "method": "Exact title"
+    },
+    "BreakoutRedux": {
+        "rank": 644,
+        "method": "Exact title"
+    },
+    "Berserk": {
+        "rank": 652,
+        "method": "Exact title"
+    },
+    "EndOfTheWorld": {
+        "rank": 654.5,
+        "method": "Neighbor estimate"
+    },
+    "AuditoryBreaker": {
+        "rank": 657,
+        "method": "Exact title"
+    },
+    "lodindafishwasher": {
+        "rank": 658,
+        "method": "Exact title"
+    },
+    "SurgeOfTheShield": {
+        "rank": 663,
+        "method": "Exact title"
+    },
+    "SpectrumSplit": {
+        "rank": 665,
+        "method": "Exact title"
+    },
+    "HyperParadox": {
+        "rank": 668,
+        "method": "Exact title"
+    },
+    "CHROMAII": {
+        "rank": 670,
+        "method": "Exact title"
+    },
+    "TheHellWorld": {
+        "rank": 672,
+        "method": "Exact title"
+    },
+    "SubSonic": {
+        "rank": 673,
+        "method": "Exact title"
+    },
+    "UnfairEvening": {
+        "rank": 678,
+        "method": "Exact title"
+    },
+    "TheHellInferno": {
+        "rank": 683,
+        "method": "Exact title"
+    },
+    "KineticBypass": {
+        "rank": 686,
+        "method": "Exact title"
+    },
+    "Boogie": {
+        "rank": 689,
+        "method": "Exact title"
+    },
+    "ihateyou": {
+        "rank": 693,
+        "method": "Exact title"
+    },
+    "SPEEDRUN": {
+        "rank": 703,
+        "method": "Exact title"
+    },
+    "RateDemon": {
+        "rank": 704,
+        "method": "Exact title"
+    },
+    "Dolos": {
+        "rank": 706,
+        "method": "Exact title"
+    },
+    "Ithacropolis": {
+        "rank": 708,
+        "method": "Exact title"
+    },
+    "milo": {
+        "rank": 710,
+        "method": "Exact title"
+    },
+    "Erebussy": {
+        "rank": 714,
+        "method": "AREDL variant/author match"
+    },
+    "SUPERMAYOHATECLUB": {
+        "rank": 718,
+        "method": "Exact title"
+    },
+    "kuiperbelt": {
+        "rank": 719,
+        "method": "Exact title"
+    },
+    "Athanatos": {
+        "rank": 720,
+        "method": "Exact title"
+    },
+    "CarnageMode": {
+        "rank": 723,
+        "method": "Exact title"
+    },
+    "NewRecord": {
+        "rank": 727,
+        "method": "Exact title"
+    },
+    "ResetYourMind": {
+        "rank": 730,
+        "method": "Exact title"
+    },
+    "CryothornHell": {
+        "rank": 739,
+        "method": "Exact title"
+    },
+    "Mystic": {
+        "rank": 740,
+        "method": "Exact title"
+    },
+    "Phobos": {
+        "rank": 744,
+        "method": "Exact title"
+    },
+    "WcropoliX": {
+        "rank": 745,
+        "method": "Exact title"
+    },
+    "TeaMZ": {
+        "rank": 746,
+        "method": "Exact title"
+    },
+    "InfernalAbyss": {
+        "rank": 749,
+        "method": "Exact title"
+    },
+    "SapphireAngel": {
+        "rank": 752,
+        "method": "Exact title"
+    },
+    "WOBBLINGMACHINE2P": {
+        "rank": 754,
+        "method": "Exact title"
+    },
+    "hotrod": {
+        "rank": 755,
+        "method": "Exact title"
+    },
+    "BasedGangSolo": {
+        "rank": 756,
+        "method": "Exact title"
+    },
+    "MadMansion": {
+        "rank": 757,
+        "method": "Exact title"
+    },
+    "TheHellOrigin": {
+        "rank": 764,
+        "method": "Exact title"
+    },
+    "MDT": {
+        "rank": 768,
+        "method": "Exact title"
+    },
+    "EnvY": {
+        "rank": 762,
+        "method": "Exact title"
+    },
+    "trollleveltwo": {
+        "rank": 768,
+        "method": "Neighbor estimate"
+    },
+    "Falcon16": {
+        "rank": 774,
+        "method": "Exact title"
+    },
+    "VendetTa": {
+        "rank": 775,
+        "method": "Exact title"
+    },
+    "BladeOfJustice": {
+        "rank": 776,
+        "method": "Exact title"
+    },
+    "Masochism": {
+        "rank": 783,
+        "method": "Exact title"
+    },
+    "Asmodeus": {
+        "rank": 787,
+        "method": "Exact title"
+    },
+    "SilentiumGradas": {
+        "rank": 790,
+        "method": "Exact title"
+    },
+    "Shibui": {
+        "rank": 793,
+        "method": "Exact title"
+    },
+    "EXPLICIT": {
+        "rank": 795,
+        "method": "Exact title"
+    },
+    "SakupenHell": {
+        "rank": 798,
+        "method": "Exact title"
+    },
+    "AlphaBaaX": {
+        "rank": 805,
+        "method": "Exact title"
+    },
+    "ACHROMATISM": {
+        "rank": 806,
+        "method": "Exact title"
+    },
+    "BetrayalOfFate": {
+        "rank": 807,
+        "method": "Exact title"
+    },
+    "HatefulReflection": {
+        "rank": 816,
+        "method": "Exact title"
+    },
+    "TenthCircle": {
+        "rank": 819,
+        "method": "Exact title"
+    },
+    "Carcano": {
+        "rank": 827,
+        "method": "Exact title"
+    },
+    "Anahita": {
+        "rank": 830,
+        "method": "Exact title"
+    },
+    "TheHellBird": {
+        "rank": 831,
+        "method": "Exact title"
+    },
+    "OPSM1": {
+        "rank": 836,
+        "method": "Exact title"
+    },
+    "MoltenMercury": {
+        "rank": 837,
+        "method": "Exact title"
+    },
+    "BiohazardARtu": {
+        "rank": 842,
+        "method": "AREDL variant/author match"
+    },
+    "Astrophobia": {
+        "rank": 844,
+        "method": "Exact title"
+    },
+    "GameOver": {
+        "rank": 848,
+        "method": "Exact title"
+    },
+    "GlacialTorrent": {
+        "rank": 855,
+        "method": "Exact title"
+    },
+    "Untitled": {
+        "rank": 861,
+        "method": "Exact title"
+    },
+    "Moment": {
+        "rank": 866,
+        "method": "Exact title"
+    },
+    "Azuriteroyen": {
+        "rank": 867,
+        "method": "AREDL variant/author match"
+    },
+    "EcstasySleyGD": {
+        "rank": 869,
+        "method": "AREDL variant/author match"
+    },
+    "TempestTornado": {
+        "rank": 871,
+        "method": "Exact title"
+    },
+    "Gravity": {
+        "rank": 872,
+        "method": "Exact title"
+    },
+    "Bloodbath": {
+        "rank": 873,
+        "method": "Exact title"
+    },
+    "Eon": {
+        "rank": 875,
+        "method": "Exact title"
+    },
+    "CrimsonSlate": {
+        "rank": 876.5,
+        "method": "Neighbor estimate"
+    },
+    "Idols": {
+        "rank": 878,
+        "method": "Exact title"
+    },
+    "AzureFiesta": {
+        "rank": 881,
+        "method": "Exact title"
+    },
+    "QuaoarViPriN": {
+        "rank": 883,
+        "method": "Exact title"
+    },
+    "Doppler2P": {
+        "rank": 885,
+        "method": "Exact title"
+    },
+    "TheHellFactory": {
+        "rank": 887,
+        "method": "Exact title"
+    },
+    "CrystalCrusher2P": {
+        "rank": 891,
+        "method": "Exact title"
+    },
+    "LeFishe": {
+        "rank": 893,
+        "method": "Exact title"
+    },
+    "DownBass": {
+        "rank": 894,
+        "method": "Exact title"
+    },
+    "OUCH": {
+        "rank": 901,
+        "method": "Exact title"
+    },
+    "angel": {
+        "rank": 903,
+        "method": "Exact title"
+    },
+    "BarbarosFinale": {
+        "rank": 904,
+        "method": "Exact title"
+    },
+    "Dyad": {
+        "rank": 905,
+        "method": "Exact title"
+    },
+    "PrismaticHaze": {
+        "rank": 907,
+        "method": "Exact title"
+    },
+    "SakupenJoy": {
+        "rank": 908,
+        "method": "Exact title"
+    },
+    "ABizarrePhantasm": {
+        "rank": 913,
+        "method": "Exact title"
+    },
+    "NeRUaL": {
+        "rank": 915,
+        "method": "Exact title"
+    },
+    "ArtificialIdeology": {
+        "rank": 917,
+        "method": "Exact title"
+    },
+    "ConicalDepression": {
+        "rank": 924,
+        "method": "Exact title"
+    },
+    "Aurorathekris": {
+        "rank": 930,
+        "method": "AREDL variant/author match"
+    },
+    "EKO": {
+        "rank": 932,
+        "method": "Exact title"
+    },
+    "SL8O": {
+        "rank": 940,
+        "method": "Exact title"
+    },
+    "DreamCity": {
+        "rank": 941,
+        "method": "Exact title"
+    },
+    "N0": {
+        "rank": 953,
+        "method": "Exact title"
+    },
+    "shatteredlens": {
+        "rank": 954,
+        "method": "Exact title"
+    },
+    "GObird": {
+        "rank": 955,
+        "method": "Exact title"
+    },
+    "ihaterenn": {
+        "rank": 958,
+        "method": "Exact title"
+    },
+    "ArcticArena": {
+        "rank": 959,
+        "method": "Likely title variant: Arctic Arema / Arctic Arena"
+    },
+    "QDYNAMIX": {
+        "rank": 962,
+        "method": "Exact title"
+    },
+    "Overtime": {
+        "rank": 972,
+        "method": "Exact title"
+    },
+    "Karma": {
+        "rank": 973,
+        "method": "Exact title"
+    },
+    "INNARDS": {
+        "rank": 977,
+        "method": "Exact title"
+    },
+    "Antonymph": {
+        "rank": 980,
+        "method": "Exact title"
+    },
+    "WaveBreaker": {
+        "rank": 984,
+        "method": "Exact title"
+    },
+    "ETERNAL": {
+        "rank": 986,
+        "method": "Exact title"
+    },
+    "ChillPuddy": {
+        "rank": 991,
+        "method": "Exact title"
+    },
+    "BEELINE2P": {
+        "rank": 1001,
+        "method": "Exact title"
+    },
+    "Tron": {
+        "rank": 945,
+        "method": "Exact title"
+    },
+    "DigitalDisarray": {
+        "rank": 1019,
+        "method": "Exact title"
+    },
+    "TheHellDignity": {
+        "rank": 1020,
+        "method": "Exact title"
+    },
+    "Solstice": {
+        "rank": 1022,
+        "method": "Exact title"
+    },
+    "SigmaInterface": {
+        "rank": 1033,
+        "method": "Exact title"
+    },
+    "Aftermath": {
+        "rank": 1034,
+        "method": "Exact title"
+    },
+    "WeAreNotTheSame2P": {
+        "rank": 1036,
+        "method": "Exact title"
+    },
+    "ShapeoftheSun": {
+        "rank": 1045,
+        "method": "Exact title"
+    },
+    "TwistedTranquility": {
+        "rank": 1046,
+        "method": "Exact title"
+    },
+    "CatPlanet": {
+        "rank": 1047,
+        "method": "Exact title"
+    },
+    "SHATTER": {
+        "rank": 1048,
+        "method": "Exact title"
+    },
+    "PlasmaPulseIII": {
+        "rank": 1051,
+        "method": "Exact title"
+    },
+    "ConcavedMemories": {
+        "rank": 1061,
+        "method": "Exact title"
+    },
+    "Niflheim": {
+        "rank": 1062,
+        "method": "Exact title"
+    },
+    "KINGSLAYER": {
+        "rank": 1064,
+        "method": "Exact title"
+    },
+    "MaybePossiblyThing": {
+        "rank": 1065,
+        "method": "Exact title"
+    },
+    "AnnihilationNation": {
+        "rank": 1066,
+        "method": "Exact title"
+    },
+    "Codependence2P": {
+        "rank": 1072,
+        "method": "Exact title"
+    },
+    "MomentaryAffection": {
+        "rank": 1073,
+        "method": "Exact title"
+    },
+    "Libertas": {
+        "rank": 1079,
+        "method": "Exact title"
+    },
+    "AudioExtraction": {
+        "rank": 1081,
+        "method": "Exact title"
+    },
+    "Betelgeuse": {
+        "rank": 1083,
+        "method": "Exact title"
+    },
+    "Caution": {
+        "rank": 1101,
+        "method": "Exact title"
+    },
+    "YeeSangHaeYo": {
+        "rank": 1103,
+        "method": "Exact title"
+    },
+    "Glide": {
+        "rank": 1108,
+        "method": "Exact title"
+    },
+    "Aureole": {
+        "rank": 1110,
+        "method": "Exact title"
+    },
+    "Evangelion": {
+        "rank": 1112,
+        "method": "Exact title"
+    },
+    "HeartbeatKrmaL": {
+        "rank": 1115,
+        "method": "AREDL variant/author match"
+    },
+    "DeathSentence": {
+        "rank": 1120,
+        "method": "Exact title"
+    },
+    "mewhenmachinegang2P": {
+        "rank": 1124,
+        "method": "Exact title"
+    },
+    "Warning": {
+        "rank": 1128,
+        "method": "Exact title"
+    },
+    "Daydream": {
+        "rank": 1129,
+        "method": "Exact title"
+    },
+    "SidesOfMyMind2P": {
+        "rank": 1134,
+        "method": "Exact title"
+    },
+    "UnderLavaland": {
+        "rank": 1139,
+        "method": "Exact title"
+    },
+    "Reflective": {
+        "rank": 1141,
+        "method": "Exact title"
+    },
+    "Vexatious": {
+        "rank": 1147,
+        "method": "Exact title"
+    },
+    "WMWFv2": {
+        "rank": 1148,
+        "method": "Exact title"
+    },
+    "Specthys2P": {
+        "rank": 1150,
+        "method": "Exact title"
+    },
+    "Impasse": {
+        "rank": 1157,
+        "method": "Exact title"
+    },
+    "EX": {
+        "rank": 1158,
+        "method": "Exact title"
+    },
+    "Dualist2P": {
+        "rank": 1162,
+        "method": "Exact title"
+    },
+    "Tenkai2P": {
+        "rank": 1165,
+        "method": "Exact title"
+    },
+    "1330x": {
+        "rank": 1168,
+        "method": "Exact title"
+    },
+    "PumpedUpKicks": {
+        "rank": 1180,
+        "method": "Exact title"
+    },
+    "Cupid": {
+        "rank": 1184,
+        "method": "Exact title"
+    },
+    "ThoughtlessSpace": {
+        "rank": 1187,
+        "method": "Exact title"
+    },
+    "LonelyLights": {
+        "rank": 1191,
+        "method": "Exact title"
+    },
+    "FrightfulMelody": {
+        "rank": 1192,
+        "method": "Exact title"
+    },
+    "4Elements": {
+        "rank": 1169,
+        "method": "Exact title"
+    },
+    "AnotherPhase": {
+        "rank": 1197,
+        "method": "Exact title"
+    },
+    "GrillKill": {
+        "rank": 1198,
+        "method": "Exact title"
+    },
+    "sarthix": {
+        "rank": 1203,
+        "method": "Exact title"
+    },
+    "Armageddon": {
+        "rank": 1217,
+        "method": "Exact title"
+    },
+    "IH8": {
+        "rank": 1225,
+        "method": "Exact title"
+    },
+    "INEVERDREAM": {
+        "rank": 1228,
+        "method": "Exact title"
+    },
+    "NecropoliX": {
+        "rank": 1229,
+        "method": "Exact title"
+    },
+    "ArtificialDream": {
+        "rank": 1230,
+        "method": "Exact title"
+    },
+    "Hurricane": {
+        "rank": 1242,
+        "method": "Exact title"
+    },
+    "FallingUp": {
+        "rank": 1244,
+        "method": "Exact title"
+    },
+    "FairMorning": {
+        "rank": 1245,
+        "method": "Exact title"
+    },
+    "Retention": {
+        "rank": 1246,
+        "method": "Exact title"
+    },
+    "Fexty": {
+        "rank": 1247,
+        "method": "Exact title"
+    },
+    "SUBVERSIVE": {
+        "rank": 1248,
+        "method": "Exact title"
+    },
+    "GentlemensClique2P": {
+        "rank": 1251,
+        "method": "Exact title"
+    },
+    "SteelTerrors": {
+        "rank": 1254,
+        "method": "Exact title"
+    },
+    "QuadraticFunction": {
+        "rank": 1255,
+        "method": "Exact title"
+    },
+    "TMWNE": {
+        "rank": 1256,
+        "method": "Exact title"
+    },
+    "MANIX": {
+        "rank": 1270,
+        "method": "Exact title"
+    },
+    "Gaming35": {
+        "rank": 1273,
+        "method": "Exact title"
+    },
+    "headlock": {
+        "rank": 1279,
+        "method": "Exact title"
+    },
+    "TheUltimatePhase": {
+        "rank": 1280,
+        "method": "Exact title"
+    },
+    "Aksion": {
+        "rank": 1281,
+        "method": "Exact title"
+    },
+    "BYE": {
+        "rank": 1285,
+        "method": "Exact title"
+    },
+    "BrokenSignal": {
+        "rank": 1289,
+        "method": "Exact title"
+    },
+    "INFLAMMABLEINFUSION": {
+        "rank": 1290,
+        "method": "Exact title"
+    },
+    "Volume": {
+        "rank": 1291,
+        "method": "Exact title"
+    },
+    "AuraDuque01": {
+        "rank": 1293,
+        "method": "AREDL variant/author match"
+    },
+    "Reverence": {
+        "rank": 1295,
+        "method": "Exact title"
+    },
+    "On1yCub3": {
+        "rank": 1298,
+        "method": "Exact title"
+    },
+    "Napalm": {
+        "rank": 1300,
+        "method": "Exact title"
+    },
+    "TechManifestation": {
+        "rank": 1303,
+        "method": "Exact title"
+    },
+    "ElectroLux": {
+        "rank": 1305,
+        "method": "Exact title"
+    },
+    "BoredWalk": {
+        "rank": 1310,
+        "method": "Exact title"
+    },
+    "Vacant": {
+        "rank": 1320,
+        "method": "Exact title"
+    },
+    "FirePowerMrLorenzo": {
+        "rank": 1323,
+        "method": "AREDL variant/author match"
+    },
+    "SHURIMA": {
+        "rank": 1326,
+        "method": "Exact title"
+    },
+    "ILOVECYAN": {
+        "rank": 1328,
+        "method": "Exact title"
+    },
+    "RedWorldRebirth": {
+        "rank": 1329,
+        "method": "Exact title"
+    },
+    "ClownControl": {
+        "rank": 1336,
+        "method": "Exact title"
+    },
+    "Diligence": {
+        "rank": 1342,
+        "method": "Exact title"
+    },
+    "Breakout": {
+        "rank": 1345,
+        "method": "AREDL variant/author match"
+    },
+    "JRJRJR": {
+        "rank": 1349,
+        "method": "Exact title"
+    },
+    "Doradura": {
+        "rank": 1355,
+        "method": "Exact title"
+    },
+    "Projectalter": {
+        "rank": 1356,
+        "method": "Exact title"
+    },
+    "DeceptionDive": {
+        "rank": 1359,
+        "method": "Exact title"
+    },
+    "Reanimate": {
+        "rank": 1360,
+        "method": "Exact title"
+    },
+    "AwakeningHorus": {
+        "rank": 1361,
+        "method": "Exact title"
+    },
+    "CrowdControl": {
+        "rank": 1362,
+        "method": "Exact title"
+    },
+    "FULLPOWER": {
+        "rank": 1364,
+        "method": "Exact title"
+    },
+    "aetherZeptoz": {
+        "rank": 1367,
+        "method": "AREDL variant/author match"
+    },
+    "AirTech": {
+        "rank": 1368,
+        "method": "Exact title"
+    },
+    "EZR": {
+        "rank": 1369,
+        "method": "Exact title"
+    },
+    "CYCLONE": {
+        "rank": 1370,
+        "method": "Exact title"
+    },
+    "FanTasticLand": {
+        "rank": 1373,
+        "method": "Exact title"
+    },
+    "Faith": {
+        "rank": 1375,
+        "method": "Exact title"
+    },
+    "MalwareII": {
+        "rank": 1377,
+        "method": "Exact title"
+    },
+    "PolishAlphabet": {
+        "rank": 1379,
+        "method": "Exact title"
+    },
+    "NightParty": {
+        "rank": 1385,
+        "method": "Exact title"
+    },
+    "FinKor": {
+        "rank": 1386,
+        "method": "Exact title"
+    },
+    "Voided": {
+        "rank": 1389,
+        "method": "Exact title"
+    },
+    "UltraSans": {
+        "rank": 1390,
+        "method": "Exact title"
+    },
+    "Obscura": {
+        "rank": 1392,
+        "method": "Exact title"
+    },
+    "UnknownCivilization": {
+        "rank": 1393,
+        "method": "Exact title"
+    },
+    "Vignette": {
+        "rank": 1397,
+        "method": "Exact title"
+    },
+    "ColorBeam": {
+        "rank": 1401,
+        "method": "Exact title"
+    },
+    "Explosion": {
+        "rank": 1405,
+        "method": "Exact title"
+    },
+    "Allegiance": {
+        "rank": 1406,
+        "method": "Exact title"
+    },
+    "TGII": {
+        "rank": 1409,
+        "method": "Exact title"
+    },
+    "Clocktower": {
+        "rank": 1417,
+        "method": "Exact title"
+    },
+    "Hypersonic": {
+        "rank": 1418,
+        "method": "Exact title"
+    },
+    "Falsch": {
+        "rank": 1420,
+        "method": "Exact title"
+    },
+    "JustDANCE": {
+        "rank": 1422,
+        "method": "Exact title"
+    },
+    "BrunoMars": {
+        "rank": 1425,
+        "method": "Exact title"
+    },
+    "Expedition": {
+        "rank": 1432,
+        "method": "Exact title"
+    },
+    "MelonRiver": {
+        "rank": 1433,
+        "method": "Exact title"
+    },
+    "Hydratic": {
+        "rank": 1441,
+        "method": "Exact title"
+    },
+    "MtM": {
+        "rank": 1443,
+        "method": "Exact title"
+    },
+    "Doop": {
+        "rank": 1445,
+        "method": "Exact title"
+    },
+    "VirtualCollapse": {
+        "rank": 1447,
+        "method": "Exact title"
+    },
+    "ThunderAlphabet": {
+        "rank": 1448,
+        "method": "Exact title"
+    },
+    "Redemption": {
+        "rank": 1449,
+        "method": "Exact title"
+    },
+    "TheFlawless": {
+        "rank": 1451,
+        "method": "Exact title"
+    },
+    "Robi": {
+        "rank": 1452,
+        "method": "Exact title"
+    },
+    "boson": {
+        "rank": 1454,
+        "method": "Exact title"
+    },
+    "Castling": {
+        "rank": 1455,
+        "method": "Exact title"
+    },
+    "BROOKLYNBLOODPOP": {
+        "rank": 1456,
+        "method": "Exact title"
+    },
+    "AcropoliX": {
+        "rank": 1457,
+        "method": "Exact title"
+    },
+    "Incipient": {
+        "rank": 1461,
+        "method": "Exact title"
+    },
+    "TUD": {
+        "rank": 1462,
+        "method": "Exact title"
+    },
+    "Overlord": {
+        "rank": 1463,
+        "method": "Exact title"
+    },
+    "MELTDOWN": {
+        "rank": 1464,
+        "method": "Exact title"
+    },
+    "Helios": {
+        "rank": 1465,
+        "method": "Exact title"
+    },
+    "HiddenintheSand": {
+        "rank": 1467,
+        "method": "Exact title"
+    },
+    "robotchiefexposal": {
+        "rank": 1468,
+        "method": "Exact title"
+    },
+    "Fishe": {
+        "rank": 1469,
+        "method": "Exact title"
+    },
+    "Niflhel": {
+        "rank": 1471,
+        "method": "Exact title"
+    },
+    "NEBULA": {
+        "rank": 1472,
+        "method": "Exact title"
+    },
+    "Uprise": {
+        "rank": 1476,
+        "method": "Exact title"
+    },
+    "violetwall": {
+        "rank": 1477,
+        "method": "Exact title"
+    },
+    "Disruption": {
+        "rank": 1478,
+        "method": "Exact title"
+    },
+    "FFG": {
+        "rank": 1459,
+        "method": "Exact title"
+    },
+    "Clarity": {
+        "rank": 1480,
+        "method": "Exact title"
+    },
+    "TTS": {
+        "rank": 1483,
+        "method": "Exact title"
+    },
+    "DarkOdyssey": {
+        "rank": 1484,
+        "method": "Exact title"
+    },
+    "Cosmorush21": {
+        "rank": 1485,
+        "method": "Exact title"
+    },
+    "BrimtanicParadise": {
+        "rank": 1487,
+        "method": "Exact title"
+    },
+    "StopBreathing": {
+        "rank": 1490,
+        "method": "Exact title"
+    },
+    "Plasmatic": {
+        "rank": 1491,
+        "method": "Exact title"
+    },
+    "LightsOut": {
+        "rank": 1492,
+        "method": "Exact title"
+    },
+    "Bangarang": {
+        "rank": 1493,
+        "method": "Exact title"
+    },
+    "THISCITYLIT": {
+        "rank": 1496,
+        "method": "Exact title"
+    },
+    "Tesseract": {
+        "rank": 1499,
+        "method": "Exact title"
+    },
+    "Reverie": {
+        "rank": 1501,
+        "method": "Exact title"
+    },
+    "EightoX": {
+        "rank": 1503,
+        "method": "Exact title"
+    },
+    "Ion": {
+        "rank": 1504,
+        "method": "Exact title"
+    },
+    "CLGB": {
+        "rank": 1508,
+        "method": "Exact title"
+    },
+    "FinalRound": {
+        "rank": 1509,
+        "method": "Exact title"
+    },
+    "Penombre": {
+        "rank": 1510,
+        "method": "Exact title"
+    },
+    "ForbiddenIsle": {
+        "rank": 1514,
+        "method": "Exact title"
+    },
+    "TheLostExistence": {
+        "rank": 1516,
+        "method": "Exact title"
+    },
+    "Insaction": {
+        "rank": 1517,
+        "method": "Exact title"
+    },
+    "NoveCerchi": {
+        "rank": 1519,
+        "method": "Exact title"
+    },
+    "Snowdrift": {
+        "rank": 1524,
+        "method": "Exact title"
+    },
+    "Corrosion": {
+        "rank": 1526,
+        "method": "Exact title"
+    },
+    "DEADOFNIGHT": {
+        "rank": 1527,
+        "method": "AREDL variant/author match"
+    },
+    "verismilitude": {
+        "rank": 1529,
+        "method": "Title/variant correction"
+    },
+    "SpectralRender": {
+        "rank": 1529.5,
+        "method": "Neighbor estimate"
+    },
+    "Malevolent": {
+        "rank": 1530,
+        "method": "Exact title"
+    },
+    "phantasmagoria-whlt": {
+        "rank": 1533,
+        "method": "AREDL variant/author match"
+    },
+    "FdUnnerfed": {
+        "rank": 1534,
+        "method": "Neighbor estimate"
+    },
+    "CONVOLVER": {
+        "rank": 1535,
+        "method": "Exact title"
+    },
+    "Cataclysm": {
+        "rank": 1537,
+        "method": "Exact title"
+    },
+    "HeatSeeker": {
+        "rank": 1538,
+        "method": "Exact title"
+    },
+    "LostLove": {
+        "rank": 1540,
+        "method": "Exact title"
+    },
+    "Voluto": {
+        "rank": 1552,
+        "method": "Exact title"
+    },
+    "gooberland": {
+        "rank": 1554,
+        "method": "Exact title"
+    },
+    "GLISTEN": {
+        "rank": 1555,
+        "method": "Exact title"
+    },
+    "Proteus": {
+        "rank": 1563,
+        "method": "Exact title"
+    },
+    "eclipse": {
+        "rank": 1564,
+        "method": "Exact title"
+    },
+    "9blue": {
+        "rank": 1565,
+        "method": "Exact title"
+    },
+    "CognitiveCapacity": {
+        "rank": 1567,
+        "method": "Exact title"
+    },
+    "TwoZero": {
+        "rank": 1570,
+        "method": "Exact title"
+    },
+    "ShimmeringChamber": {
+        "rank": 1571,
+        "method": "Exact title"
+    },
+    "AzuriteSillow": {
+        "rank": 1572,
+        "method": "AREDL variant/author match"
+    },
+    "Paralysis": {
+        "rank": 1573,
+        "method": "Exact title"
+    },
+    "FlappyDynamixII": {
+        "rank": 1574,
+        "method": "Exact title"
+    },
+    "TDA": {
+        "rank": 1577,
+        "method": "Exact title"
+    },
+    "bunniesiguess": {
+        "rank": 1580,
+        "method": "Exact title"
+    },
+    "NoSurvivors": {
+        "rank": 1583,
+        "method": "Exact title"
+    },
+    "ArtificialClimb": {
+        "rank": 1584,
+        "method": "Exact title"
+    },
+    "Decay": {
+        "rank": 1585,
+        "method": "Exact title"
+    },
+    "TANTRUM": {
+        "rank": 1586,
+        "method": "Exact title"
+    },
+    "FunFriday": {
+        "rank": 1588,
+        "method": "Exact title"
+    },
+    "Wavetrip": {
+        "rank": 1589,
+        "method": "Exact title"
+    },
+    "Sephtis": {
+        "rank": 1590,
+        "method": "Exact title"
+    },
+    "MysticBounds": {
+        "rank": 1592,
+        "method": "Exact title"
+    },
+    "Mizureta": {
+        "rank": 1593,
+        "method": "Exact title"
+    },
+    "MistyMountains": {
+        "rank": 1594,
+        "method": "Exact title"
+    },
+    "niwa": {
+        "rank": 1597,
+        "method": "Exact title"
+    },
+    "WithoutU": {
+        "rank": 1598,
+        "method": "Exact title"
+    },
+    "JeonGi": {
+        "rank": 1599,
+        "method": "Exact title"
+    },
+    "Prismatic": {
+        "rank": 1601,
+        "method": "Exact title"
+    },
+    "DevilsDisco": {
+        "rank": 1602,
+        "method": "Exact title"
+    },
+    "lezicuv": {
+        "rank": 1607,
+        "method": "Exact title"
+    },
+    "MeLinA": {
+        "rank": 1608,
+        "method": "Exact title"
+    },
+    "NostalgicOverdrive": {
+        "rank": 1609,
+        "method": "Exact title"
+    },
+    "memoriesIII": {
+        "rank": 1610,
+        "method": "Exact title"
+    },
+    "Pentakill": {
+        "rank": 1611,
+        "method": "Exact title"
+    },
+    "BangGang2P": {
+        "rank": 1612,
+        "method": "Exact title"
+    },
+    "BasedGang2P": {
+        "rank": 1613,
+        "method": "Exact title"
+    },
+    "Raindance": {
+        "rank": 1614,
+        "method": "Exact title"
+    },
+    "BRUTAL": {
+        "rank": 1615,
+        "method": "Exact title"
+    },
+    "thct": {
+        "rank": 1616,
+        "method": "Exact title"
+    },
+    "BRAINWASH": {
+        "rank": 1617,
+        "method": "Exact title"
+    },
+    "TrollLevel": {
+        "rank": 1618,
+        "method": "Exact title"
+    },
+    "WhiteAlbumUnnerfed": {
+        "rank": 1618.5,
+        "method": "Neighbor estimate"
+    },
+    "ShineForMe": {
+        "rank": 1619,
+        "method": "Exact title"
+    },
+    "Lone": {
+        "rank": 1621,
+        "method": "Exact title"
+    },
+    "TheWingedSword": {
+        "rank": 1622,
+        "method": "Exact title"
+    },
+    "PARADISEPOINT": {
+        "rank": 1623,
+        "method": "Exact title"
+    },
+    "TranLaLuot": {
+        "rank": 1624,
+        "method": "Exact title"
+    },
+    "JumpingDemons": {
+        "rank": 1625,
+        "method": "Exact title"
+    },
+    "Horros2P": {
+        "rank": 1627,
+        "method": "Exact title"
+    },
+    "thesuperhotdog": {
+        "rank": 1628,
+        "method": "Exact title"
+    },
+    "SweaterWeather": {
+        "rank": 1630,
+        "method": "Exact title"
+    },
+    "squeak": {
+        "rank": 1631,
+        "method": "Exact title"
+    },
+    "Acu": {
+        "rank": 1632,
+        "method": "Exact title"
+    },
+    "ThroughtheDecay": {
+        "rank": 1634,
+        "method": "Exact title"
+    },
+    "Precipitance": {
+        "rank": 1635,
+        "method": "Exact title"
+    },
+    "RedWorld": {
+        "rank": 1636,
+        "method": "Exact title"
+    },
+    "rauchkammer": {
+        "rank": 1637,
+        "method": "Exact title"
+    },
+    "DOUBLEDYNAMO2P": {
+        "rank": 1638,
+        "method": "Exact title"
+    },
+    "Planemap2p": {
+        "rank": 1154,
+        "method": "Neighbor estimate"
+    }
+}
