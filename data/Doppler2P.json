@@ -1,0 +1,17 @@
+{
+    "id": 133489881,
+    "name": "Doppler (2P)",
+    "author": "At424",
+    "creators": ["At424", "Latezk"],
+    "verifier": "Draconyx",
+    "verification": "https://www.youtube.com/watch?v=ALxN-IQXU7E",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "FireXY",
+            "link": "https://www.youtube.com/watch?v=ALxN-IQXU7E",
+            "percent": 100
+        }
+    ]
+}
