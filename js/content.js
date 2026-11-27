@@ -181,7 +181,16 @@ export async function fetchLeaderboard() {
     });
 
     // Add each player's points together, applying the gradual achievement multiplier.
+    const fullValueCount = 20;
+    const retentionPer20 = 0.7;
+    const minimumFullCompletionPoints = 0.1;
+
     const res = Object.entries(scoreMap).map(([user, scores]) => {
+        const fullCompletions = new Set([
+            ...scores.verified,
+            ...scores.completed,
+        ]);
+
         const achievements = [
             ...scores.verified,
             ...scores.completed,
@@ -190,11 +199,22 @@ export async function fetchLeaderboard() {
 
         achievements.forEach((achievement, index) => {
             const position = index + 1;
+            const multiplier =
+                position <= fullValueCount
+                    ? 1
+                    : Math.pow(
+                          retentionPer20,
+                          (position - fullValueCount) / 20,
+                      );
 
-            if (position > 20) {
-                const multiplier = Math.pow(0.5, (position - 20) / 20);
-                achievement.score = round(achievement.score * multiplier);
-            }
+            const weightedScore = achievement.score * multiplier;
+            const isFullCompletion = fullCompletions.has(achievement);
+
+            achievement.score = round(
+                isFullCompletion && achievement.score > 0
+                    ? Math.max(weightedScore, minimumFullCompletionPoints)
+                    : weightedScore,
+            );
         });
 
         const total = achievements.reduce(
