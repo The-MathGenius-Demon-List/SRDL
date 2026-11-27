@@ -55,7 +55,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(level.aredlRank, level.hardestRank, level.easiestRank, 100, level.percentToQualify) }}</p>
+                            <p>{{ score(level.basePoints, 100, level.percentToQualify,) }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
