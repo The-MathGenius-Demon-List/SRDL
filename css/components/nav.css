@@ -11,11 +11,11 @@
     transition: border-color 100ms ease;
 }
 .nav .nav__tab.router-link-active {
-    padding-bottom: 10px;
+    padding-bottom: 4px;
     border-color: var(--color-on-primary);
 }
 .nav .nav__tab:hover {
-    padding-bottom: 10px;
+    padding-bottom: 4px;
     border-color: var(--color-on-primary);
 }
 .nav .nav__actions {
@@ -52,5 +52,6 @@
     transition: transform 100ms ease;
 }
 .nav .nav__actions .nav__cta:hover:not(:active) {
+    padding-bottom: 4px;
     transform: translateY(-2px);
 }
