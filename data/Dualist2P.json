@@ -1,0 +1,17 @@
+{
+    "id": 130464801,
+    "name": "Dualist (2P)",
+    "author": "Sync",
+    "creators": ["Cluncherp", "Sync", "Twandash"],
+    "verifier": "Draconyx",
+    "verification": "https://www.youtube.com/watch?v=_3kxU3GD5DI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "FireXY",
+            "link": "https://www.youtube.com/watch?v=_3kxU3GD5DI",
+            "percent": 100
+        }
+    ]
+}
