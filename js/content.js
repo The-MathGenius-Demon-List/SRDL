@@ -1,23 +1,38 @@
-import { round, score } from './score.js';
+import { round, score } from "./score.js";
 
 /**
  * Path to directory containing `_list.json` and all levels
  */
-const dir = '/data';
+const dir = "/data";
 
 export async function fetchList() {
-    const listResult = await fetch(`${dir}/_list.json`);
     try {
-        const list = await listResult.json();
-        return await Promise.all(
+        const [listResult, rankMapResult] = await Promise.all([
+            fetch(`${dir}/_list.json`),
+            fetch(`${dir}/_aredl_ranks.json`),
+        ]);
+
+        const [list, rankMap] = await Promise.all([
+            listResult.json(),
+            rankMapResult.json(),
+        ]);
+
+        const loadedLevels = await Promise.all(
             list.map(async (path, rank) => {
-                const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
+                    const levelResult = await fetch(`${dir}/${path}.json`);
                     const level = await levelResult.json();
+                    const rankInfo = rankMap[path];
+
+                    if (!Number.isFinite(rankInfo?.rank)) {
+                        throw new Error(`Missing AREDL rank for ${path}`);
+                    }
+
                     return [
                         {
                             ...level,
                             path,
+                            aredlRank: rankInfo.rank,
                             records: level.records.sort(
                                 (a, b) => b.percent - a.percent,
                             ),
@@ -25,13 +40,33 @@ export async function fetchList() {
                         null,
                     ];
                 } catch {
-                    console.error(`Failed to load level #${rank + 1} ${path}.`);
+                    console.error(
+                        `Failed to load level #${rank + 1} ${path}, or its AREDL rank.`,
+                    );
                     return [null, path];
                 }
             }),
         );
+
+        // Find the hardest and easiest AREDL ranks currently mapped to SDL levels.
+        const ranks = loadedLevels
+            .filter(([level]) => level)
+            .map(([level]) => level.aredlRank);
+
+        if (ranks.length === 0) {
+            return loadedLevels;
+        }
+
+        const hardestRank = Math.min(...ranks);
+        const easiestRank = Math.max(...ranks);
+
+        // Attach the same rank range to each successfully loaded level.
+        return loadedLevels.map(([level, error]) => [
+            level ? { ...level, hardestRank, easiestRank } : null,
+            error,
+        ]);
     } catch {
-        console.error(`Failed to load list.`);
+        console.error("Failed to load list or AREDL rank map.");
         return null;
     }
 }
@@ -46,15 +81,12 @@ export async function fetchEditors() {
     }
 }
 
-//
 export async function fetchLeaderboard() {
     const list = await fetchList();
-    
-    // NEW: Define totalLevels (N) based on the length of the fetched list
-    const totalLevels = list.length;
 
     const scoreMap = {};
     const errs = [];
+
     list.forEach(([level, err], rank) => {
         if (err) {
             errs.push(err);
@@ -62,40 +94,58 @@ export async function fetchLeaderboard() {
         }
 
         // Verification
-        const verifier = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === level.verifier.toLowerCase(),
-        ) || level.verifier;
+        const verifier =
+            Object.keys(scoreMap).find(
+                (user) => user.toLowerCase() === level.verifier.toLowerCase(),
+            ) || level.verifier;
+
         scoreMap[verifier] ??= {
             verified: [],
             completed: [],
             progressed: [],
         };
+
         const { verified } = scoreMap[verifier];
+
         verified.push({
             rank: rank + 1,
             level: level.name,
-            // UPDATED: Now passing totalLevels as the second argument
-            score: score(rank + 1, totalLevels, 100, level.percentToQualify),
+            score: score(
+                level.aredlRank,
+                level.hardestRank,
+                level.easiestRank,
+                100,
+                level.percentToQualify,
+            ),
             link: level.verification,
         });
 
         // Records
         level.records.forEach((record) => {
-            const user = Object.keys(scoreMap).find(
-                (u) => u.toLowerCase() === record.user.toLowerCase(),
-            ) || record.user;
+            const user =
+                Object.keys(scoreMap).find(
+                    (name) => name.toLowerCase() === record.user.toLowerCase(),
+                ) || record.user;
+
             scoreMap[user] ??= {
                 verified: [],
                 completed: [],
                 progressed: [],
             };
+
             const { completed, progressed } = scoreMap[user];
+
             if (record.percent === 100) {
                 completed.push({
                     rank: rank + 1,
                     level: level.name,
-                    // UPDATED: Now passing totalLevels as the second argument
-                    score: score(rank + 1, totalLevels, 100, level.percentToQualify),
+                    score: score(
+                        level.aredlRank,
+                        level.hardestRank,
+                        level.easiestRank,
+                        100,
+                        level.percentToQualify,
+                    ),
                     link: record.link,
                 });
                 return;
@@ -105,19 +155,24 @@ export async function fetchLeaderboard() {
                 rank: rank + 1,
                 level: level.name,
                 percent: record.percent,
-                // UPDATED: Now passing totalLevels as the second argument
-                score: score(rank + 1, totalLevels, record.percent, level.percentToQualify),
+                score: score(
+                    level.aredlRank,
+                    level.hardestRank,
+                    level.easiestRank,
+                    record.percent,
+                    level.percentToQualify,
+                ),
                 link: record.link,
             });
         });
     });
 
-    // Wrap in extra Object containing the user and total score
+    // Add each player's points together.
     const res = Object.entries(scoreMap).map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
         const total = [verified, completed, progressed]
             .flat()
-            .reduce((prev, cur) => prev + cur.score, 0);
+            .reduce((previous, current) => previous + current.score, 0);
 
         return {
             user,
@@ -126,6 +181,6 @@ export async function fetchLeaderboard() {
         };
     });
 
-    // Sort by total score
+    // Sort from highest total to lowest.
     return [res.sort((a, b) => b.total - a.total), errs];
 }
