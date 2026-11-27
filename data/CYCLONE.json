@@ -1,0 +1,22 @@
+{
+    "id": 54917442,
+    "name": "CYCLONE",
+    "author": "BIANOX",
+    "creators": ["Helpegasus", "Arceus4", "Jenkins", "voltex", "Sxap", "Enlex", "ZeroSR", "kDarko", "BIANOX", "Sequex", "Zipixbox"],
+    "verifier": "Jamar",
+    "verification": "https://www.youtube.com/watch?v=p_T-_mKc32k",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ProudGiraffe",
+            "link": "https://www.youtube.com/watch?v=ye31kdVA3kY",
+            "percent": 100
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
