@@ -1,0 +1,22 @@
+{
+    "id": 32688321,
+    "name": "Incipient",
+    "author": "Jenkins",
+    "creators": [],
+    "verifier": "Draconyx",
+    "verification": "https://www.youtube.com/watch?v=85HtjPfNHCM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Altaspooneus",
+            "link": "https://www.youtube.com/watch?v=h5S0iatHDiY",
+            "percent": 100
+        },
+        {
+            "user": "Dreamlight",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
