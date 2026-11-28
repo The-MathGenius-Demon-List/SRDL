@@ -61,84 +61,71 @@ export async function fetchList() {
         const easiestRank = Math.max(...ranks);
 
         // Calculate the existing AREDL-based point values for every loaded level.
-// Then assign those values from highest to lowest in SDL list order.
-const pointsBySdlPosition = loadedLevels
-    .filter(([level]) => level)
-    .map(([level]) =>
-        aredlCompletionPoints(
-            level.aredlRank,
-            hardestRank,
-            easiestRank,
-        ),
-    )
-    .sort((a, b) => b - a);
+        // Then assign those values from highest to lowest in SDL list order.
+        const pointsBySdlPosition = loadedLevels
+            .filter(([level]) => level)
+            .map(([level]) =>
+                aredlCompletionPoints(
+                    level.aredlRank,
+                    hardestRank,
+                    easiestRank,
+                ),
+            )
+            .sort((a, b) => b - a);
 
-// Calculate the existing AREDL-based point values for every loaded level.
-// Then assign those values from highest to lowest in SDL list order.
-const pointsBySdlPosition = loadedLevels
-    .filter(([level]) => level)
-    .map(([level]) =>
-        aredlCompletionPoints(
-            level.aredlRank,
-            hardestRank,
-            easiestRank,
-        ),
-    )
-    .sort((a, b) => b - a);
+        const totalLevels = pointsBySdlPosition.length;
+        const transitionStartRank = 200;
+        const transitionEndRank = 282;
+        const anchorPoints = pointsBySdlPosition[transitionEndRank - 1];
+        const remainingLevels = totalLevels - transitionEndRank;
 
-const totalLevels = pointsBySdlPosition.length;
-const transitionStartRank = 200;
-const transitionEndRank = 282;
-const anchorPoints = pointsBySdlPosition[transitionEndRank - 1];
-const remainingLevels = totalLevels - transitionEndRank;
+        let pointIndex = 0;
 
-let pointIndex = 0;
+        return loadedLevels.map(([level, error]) => {
+            if (!level) {
+                return [null, error];
+            }
 
-return loadedLevels.map(([level, error]) => {
-    if (!level) {
-        return [null, error];
-    }
+            // Use the existing AREDL-based points through #200.
+            const rank = pointIndex + 1;
+            const currentPoints = pointsBySdlPosition[pointIndex++];
+            let basePoints = currentPoints;
 
-    // Use the existing AREDL-based points through #200.
-    const rank = pointIndex + 1;
-    const currentPoints = pointsBySdlPosition[pointIndex++];
-    let basePoints = currentPoints;
+            if (rank > transitionStartRank && remainingLevels > 0) {
+                // Extend the eased curve from its #282 anchor to 1 point
+                // at the bottom of the current SDL list.
+                const easedPoints =
+                    1 +
+                    (anchorPoints - 1) *
+                        Math.pow(
+                            (totalLevels - rank) / remainingLevels,
+                            2.5,
+                        );
 
-    if (rank > transitionStartRank && remainingLevels > 0) {
-        // Extend the eased curve from its #282 anchor to 1 point
-        // at the bottom of the current SDL list.
-        const easedPoints =
-            1 +
-            (anchorPoints - 1) *
-                Math.pow(
-                    (totalLevels - rank) / remainingLevels,
-                    2.5,
-                );
+                if (rank <= transitionEndRank) {
+                    // Smoothly blend from the current curve to the eased curve.
+                    const t =
+                        (rank - transitionStartRank) /
+                        (transitionEndRank - transitionStartRank);
+                    const smooth = t * t * (3 - 2 * t);
 
-        if (rank <= transitionEndRank) {
-            // Smoothly blend from the current curve to the eased curve.
-            const t =
-                (rank - transitionStartRank) /
-                (transitionEndRank - transitionStartRank);
-            const smooth = t * t * (3 - 2 * t);
+                    basePoints =
+                        currentPoints +
+                        smooth * (easedPoints - currentPoints);
+                } else {
+                    // Continue the eased curve below #282.
+                    basePoints = easedPoints;
+                }
+            }
 
-            basePoints =
-                currentPoints +
-                smooth * (easedPoints - currentPoints);
-        } else {
-            // Continue the eased curve below #282.
-            basePoints = easedPoints;
-        }
-    }
-
-    return [
-        {
-            ...level,
-            basePoints: round(basePoints),
-        },
-        error,
-    ];
-});
+            return [
+                {
+                    ...level,
+                    basePoints: round(basePoints),
+                },
+                error,
+            ];
+        });
     } catch {
         console.error("Failed to load list or AREDL rank map.");
         return null;
