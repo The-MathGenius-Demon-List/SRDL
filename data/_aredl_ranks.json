@@ -35,6 +35,10 @@
         "rank": 41,
         "method": "AREDL API: level ID"
     },
+    "BEINGHOME": {
+        "rank": 42,
+        "method": "AREDL API: level ID"
+    },
     "Deimos-ItsHybrid": {
         "rank": 43,
         "method": "AREDL API: level ID"
