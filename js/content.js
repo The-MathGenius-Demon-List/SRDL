@@ -224,7 +224,7 @@ export async function fetchLeaderboard() {
 
     // Add each player's points together, applying the gradual achievement multiplier.
     const fullValueCount = 20;
-    const retentionPer20 = 0.7;
+    const retentionPer20 = 0.71068712;
     const minimumFullCompletionPoints = 0.1;
 
     const res = Object.entries(scoreMap).map(([user, scores]) => {
