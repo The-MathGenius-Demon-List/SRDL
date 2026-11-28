@@ -2254,5 +2254,13 @@
     "Planemap2p": {
         "rank": 1153,
         "method": "AREDL API: level ID"
+    },
+    "DARKENED": {
+        "rank": 769,
+        "method": "AREDL API: level ID"
+    },
+    "BROWNOIX": {
+        "rank": 1082,
+        "method": "AREDL API: level ID"
     }
 }
